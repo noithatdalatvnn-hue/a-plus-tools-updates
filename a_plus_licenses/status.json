@@ -1,0 +1,14 @@
+{
+  "type": "APLUS_LICENSE_STATUS_1",
+  "algorithm": "RSA-SHA256",
+  "payload": {
+    "schema": 1,
+    "provider": "github_signed_snapshot",
+    "generated_at": "2026-07-27T04:07:30Z",
+    "entry_count": 0,
+    "entries": {
+    }
+  },
+  "signature": "nykebYPav8oDVsDZyxZfObe/dcakryNJATBVTiZ2w5su2K25wFGgUqq+lPIekDAmA6/KOfhADyNUNmPQcbLJfV60gMSqKu1agkimjk2ybHugtkx6r4WWuE4jOlEQsLprbj7yxuK6vPDE3M8H/AI9NsNnym2qPui31fj0dk4kPZK1ZWuWIpldtbHFUTJ4G6Boi5ZWJoNf8FwZvziC/G7WMFw/+giZN5C2RVs905166gFI4Q9u4f8IMkIpHvF/FHn8efAKB1Keu28JKK2o+8MLlI6S6cMuLgWIXGoho3dLA+i8vmkv296F9ziaxbCslwv+JN/B/CHrcNtdnEc3CJtgRjLwlq7mzGZDgBNq4L0E2zzAKGuhSdVhonI9aq8Ds6YqgcP3T1KlcIeGO3SHO48fcWt4b24bHob6Gu5haKRXajtjiiueKeyR4aYwrXbkuKou9RRfylehEBXULlJ6l3lyPu47PlBOGueILvqmsCLpah0HB0WDUTbsF358m0f3KpPc",
+  "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
+}
