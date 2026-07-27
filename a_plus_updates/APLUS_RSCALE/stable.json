@@ -1,0 +1,27 @@
+{
+  "type": "APLUS_UPDATE_1",
+  "algorithm": "RSA-SHA256",
+  "payload": {
+    "schema": 1,
+    "provider": "github_releases",
+    "management_product_id": "APLUS_RSCALE",
+    "product_id": "APLUS_RSCALE",
+    "name": "RScale +",
+    "version": "3.5.128",
+    "channel": "stable",
+    "mandatory": true,
+    "minimum_sketchup": "2023",
+    "maximum_sketchup": "2026",
+    "asset_name": "rscale_3.5.128.rbz",
+    "asset_size": 149403,
+    "sha256": "eac4769636c68c47f58ab31301c14b1d7aa97d600ce6bdcb5a6777562a2599c5",
+    "download_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/download/aplus_rscale-v3.5.128/rscale_3.5.128.rbz",
+    "release_tag": "aplus_rscale-v3.5.128",
+    "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_rscale-v3.5.128",
+    "release_notes": "",
+    "published_at": "2026-07-27T08:49:36Z",
+    "repository": "noithatdalatvnn-hue/a-plus-tools-updates"
+  },
+  "signature": "SVPpS9BkMbHRxSA1LJ+H8kPUxbVSENHOYfXkXCA77XJ/pa6poemH0GT0b86KH70j5FWHgzeIBqZiMbEsxCY7Rbecm/uRGvvPmQtLXJ4a0J/SjCZGCDP81E+wrCmF++w3b5FBDbmV1ESL7yc4p6GzKmDzj+RIUt67PUx2MKB/x9KuCdyKBR4qrYhlxfPHUTaK/26ZYcbmuvpU7s1P7c/5rDQakodb+WXM85RXKZRMAFxBshHz6W+vJRZo1NqGl1JNMXVHE9jnZ5gaFfN+Z7bvGuxNqWT5Ji6dbRyjTADVj3mKwT8GkZgNdl2R6qR0mTLFME4WKCpQDy9oiiAqv9/TRtA3vCkNNYHQmAOAKQxADY0VW0Q8LphaWLmf2M2017wp/21QtqlPePRIlBqiJJmjm35B4NDx0xQlxQdyeqwuVKo9sg1uRMPlHBnQW+qRsewMWHXlv1zR3B2a7M7L5J4rRUoRNpncRvsev4ETSmLSm0qgMPbl3Q+LRj8CdTdTPJAS",
+  "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
+}
