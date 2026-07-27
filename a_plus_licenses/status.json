@@ -2,13 +2,15 @@
   "type": "APLUS_LICENSE_STATUS_1",
   "algorithm": "RSA-SHA256",
   "payload": {
-    "schema": 1,
+    "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-07-27T04:07:30Z",
+    "generated_at": "2026-07-27T07:25:32Z",
     "entry_count": 0,
+    "active_record_count": 0,
+    "tombstone_count": 0,
     "entries": {
     }
   },
-  "signature": "nykebYPav8oDVsDZyxZfObe/dcakryNJATBVTiZ2w5su2K25wFGgUqq+lPIekDAmA6/KOfhADyNUNmPQcbLJfV60gMSqKu1agkimjk2ybHugtkx6r4WWuE4jOlEQsLprbj7yxuK6vPDE3M8H/AI9NsNnym2qPui31fj0dk4kPZK1ZWuWIpldtbHFUTJ4G6Boi5ZWJoNf8FwZvziC/G7WMFw/+giZN5C2RVs905166gFI4Q9u4f8IMkIpHvF/FHn8efAKB1Keu28JKK2o+8MLlI6S6cMuLgWIXGoho3dLA+i8vmkv296F9ziaxbCslwv+JN/B/CHrcNtdnEc3CJtgRjLwlq7mzGZDgBNq4L0E2zzAKGuhSdVhonI9aq8Ds6YqgcP3T1KlcIeGO3SHO48fcWt4b24bHob6Gu5haKRXajtjiiueKeyR4aYwrXbkuKou9RRfylehEBXULlJ6l3lyPu47PlBOGueILvqmsCLpah0HB0WDUTbsF358m0f3KpPc",
+  "signature": "qxEw01g9TnfVUB3boAmCiKrM7KOgXGEmAKZi9cuoi/+skIsf2S7tcinBBeZxm4AJgxqk+CsmeyzIUmbJ13Q0Yr9H5JAyM88Esy95bd7CwrSwtJMnh1Pca5O+8jfCEs/5ivBwIV72TGR01z5Fo5ak+kxNWP0I6AWvDEx/FT5RleLDB7n6lOZxaNGGymkjejBjyHLDKl7qKugklmjKYt1uJ030+40BEAyyXu9ntIuXsC8CHjSkuZYm0+9UPIM/qoM45Pbj8N/JPKAgsXQyitFGgMitDrMmTzAh+BZioFFhfwpN/YWLL8qK7WgsMF+uLMb6mDi4Vpk2DZttlkNf8wKh5vygKq+p4Ud/eqa1VdYBYS8DJM8Hhka2lxbHc53Cnwk6m6TA7w6XwaArB6mmm46AU+seryrUeBzjAjdhkUTtFQW557ePRDyxq4DTzwxoXfxgEEK+EA1EjwZEC0ep3Wmz72quAfrJx+2S0uplQmDv9vAFyebakcEvJwVkYNCFmk6k",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
