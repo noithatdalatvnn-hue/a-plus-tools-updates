@@ -4,11 +4,18 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-07-27T07:52:37Z",
-    "entry_count": 1,
-    "active_record_count": 1,
+    "generated_at": "2026-07-27T08:29:20Z",
+    "entry_count": 2,
+    "active_record_count": 2,
     "tombstone_count": 0,
     "entries": {
+      "27E666EA04CB13ACB6302979C9667BEEA5CCED1928D44F34723933816218857A": {
+        "product_id": "APLUS_RSCALE",
+        "status": "issued",
+        "license_id_hash": "045E36B5383DA7E71461645A3278DDE518D8AC73013A78BD38F0E15222B9CDF1",
+        "updated_at": "2026-07-27T15:29:17+07:00",
+        "source": "manager_license"
+      },
       "53C24075AFD62EB92766A4B461226C39D91DEB34FDCDB42A69FB981B4A506904": {
         "product_id": "APLUS_RSCALE",
         "status": "issued",
@@ -18,6 +25,6 @@
       }
     }
   },
-  "signature": "CEdZcMiCGzN0GmSZATjBKwmQDZGWrOA6Kt6zM/dlmBWmrcm19FzyBmAHQN1NU3YJG9XkF7Fj7teSuSdRtGy5mWrVWGHonDC0gY8Wa4y/EHsTDdL90Fy5NegMlD4VeUGiyETY/vzpDkIoVzqJGDZSlSnWnOFScn5tN/6lxPOs9c4ntlSWf2LUOo1bCZLzNd7nabY6Zdh/NsJj01MxOD3cA+bW34zcgiRPf/+oHShcJmHmAtS/JD34yHMy48AiMUvR24/pFvFlOS5dGgR8/gaX2erQSuN6zd+jrR6PjWTTIXaIN/ISH6Qe2q/B0BcymY+qgqmMbCnexxVD7UytihL90w1k+3L0q7o4gtSf3CfJpn6i2vagRKZiKdefrA08z35JL+MLba4sT5YrP2nRR4yt3yH2JV2ctT8zFnxyom9LFD39OqYKyAVas+o0OUd1hiilaRcXyqIzljS9qrWJNadveRFFcq0fX9kaW8bvDAVBKz4XwhdbDmX89vjUURhRZdUq",
+  "signature": "2EUjXc+gcQOBQA4uWk+WBN8DEHYsU8dznewaFVkAWa/VsARnbS1aTIpFBlhBl3s5PBDfxe3xb2zb9So7CPOUuCxrVkmgZFEJ4DzuqEqE4cheXRg9RfpT8PyzeiqnGkp+V7xd3zsHDfnOncWQMdsSPsOGpeMIpXveemD03x35bFIgNuPNjZVSbUtDk7Au1iqABPsML7m2A0t0fEDRU65EOEACHBFK1D9X3K2CbBJf/FCwd+jhOavwauBBMgjGggZxTD21VVZPp9Qnuxg3xHJmcbeTIFx2SBkT0XH9bPSzzelVUC7iwTOlfZ34zJIvD8vF8U9uTekIl3lqqZbXf7x9NRHsy7v7Sx/zLKlPQpWam7gsdpsyJLuHQ1HrCk0X7mik1BBDol+/JS9zHm5OAcs0oACDFLpBI0bzw5y3asT5M9lmxEDYyRAvc5G3plfvIevXHC4fxdYoupNEB6W36q/fujjz1f7Zac0Rn8mVm5IAgKXZBeNLKqJAKZf1Zfxli13Q",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
