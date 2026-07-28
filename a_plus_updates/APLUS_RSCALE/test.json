@@ -18,14 +18,14 @@
     "download_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/download/aplus_rscale-v3.5.130/rscale_3.5.130.rbz",
     "release_tag": "aplus_rscale-v3.5.130",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_rscale-v3.5.130",
-    "release_notes": "",
-    "published_at": "2026-07-27T14:35:24Z",
+    "release_notes": "Sửa lỗi xoay 90 độ với phím mũi tên",
+    "published_at": "2026-07-28T04:59:00Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "RScale"
   },
-  "signature": "zo6bMyV5LGkwGT4csj5yTxUbZBtbZSK5Nzhc6hyzvn7Gto9lKQG5LvRJPNKDp+vijE2b5KAOMU9S8KZ9UI5Jyr7jWfTHpgeyJsca95UgOWWgf2WvANv3RuRyhth5FNp3LbclHbiy/ZedNvba4LBlw5+gto0ZQvxC27b5Wd1T7YURuEamYUsFEzLChY1SHqeBgJTk7BwQPwdqQd1gDULcX1yJBha+cI4UBekTWGjbJ1FzlK0oZ2GfW2QGMml8bFBotOtqzdk+cbTTrNmfGMMEw6H5meHhcLJEbaID9bkKcB8yx0Xdbqi1cPEZRS0rA/RGhJoGu0OSiu64CVbZIdKhBeDN09I2Zd2dJvfA/whM9sNhg7OZFW2srHx/fjnlYeAD12phSOnpSYN/D5VbBvse3DgT/HQD3ZZSIF7+mxm6CMIvxN3N6SajjgOnjsOQkV2xgQbVQrPrX2p5VOkmQJIQFf6yJMQ8rwid1/bS3iDZrWQvQXUSU/NSYoV698PNUvOQ",
+  "signature": "BcI6b9ELMA+dT6hkfVb0kOF+va/ipxneXp5sfxGv4rxsNrC43tlm3UzMhtaB0T/13pEnzDam3X0wwWkTjwuZf7SXcgXHco/zoQx1wNwJO68UP7/MYTwBwm9SR/SOjys2HXh9yCWI+PU6+YFpDO+cKTpl5M7uhWGhCplj2gUVyX1/W2peedDV4OhK3G5IxTNel3Q3T0SLKQCpsQZnbviHVH2v5dd1WCGQ0RhBxPe4gn1K/isQ6DaGnT4IpIlzS/jG2NY+yaZlqfTFfMJ0wMEFjuDKbk9DAOQh+hjMJ17HhSIiFpJf3ONtStsTxzU3OZVfBlYCMQc+8sTCTb1VlafOx3akOk/knCOjppuEZMunswDklRpp7rKEN9ncr+dRBcI7GnDQYAEHDZ5k9mtX2MDqDoS1/TIjYCUymNrblfNJm0wEpopVRuYLxLONJk3saq3TYL5A8UBRtcBdu3tduoHRyxDxvC7GzOAENf63VWAoDtoV5h+NSXvMFOR+SfbmEN/M",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
