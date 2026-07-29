@@ -19,13 +19,13 @@
     "release_tag": "aplus_rscale-v3.5.133",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_rscale-v3.5.133",
     "release_notes": "Rotate, scale và copy trên X,y,z.",
-    "published_at": "2026-07-29T01:01:19Z",
+    "published_at": "2026-07-29T01:02:24Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "RScale"
   },
-  "signature": "vrw2dB7f3gmzwt77Prh/mnWt5LURa3omuJmCHBv3U+EHbCkyTxIrrpXV/hw4SYq707oqTqfJ1JOalJbV0fSDWJjMAVUWDjAWUN9Mp0QxkqXs2LpCXTyI+Bh3Jf+jAhHa9OVaIQ7wibqmk0jjDtPp+zILm6GdyXcbCZW4v+N3xHPGXuEyQrwtkzCY+EiuDoAfjtH3b8/q1M8g5ETJcecmcdCmftg0IZDZVva0tGaxlYUnUEG0XQtPcuOvFv/K5+tYFJN83zDcdrXagu7MfUh2kEeCg2RUO0TlmNcr0Rkn7gyTAINDGqaIV9pss9NXpGufqDZ6vnpFii2Hi3WGQjbRdsWfPwh/BcOhWyzxb+nozrFDk1cJ/BMQsRQijCcyj7sT8yS509JEIBNTiRgN+NOF/SXjsaWnL+1tukizYvDpLL5F76nEcYxLquxrwm4VENsuaCyu4z8ZXXnPsn461627fBTp1Ft3HFJlxx94D8c6fq7/c90AuoLKdd0fxrlO5u6f",
+  "signature": "dumJZA2iQ3bf6cWzO28dNmZ2rZUCNiuNtomU8UHtFskaGa7cf5QQOdPcKjUyrTeeKEa2QMie+sFNYv07JmWXVU72d7cAxb6DVeSrFV5ayudy/LYQkSKXswRFd0fH1pOjAits8kfH7c+iMdv2k64Hs/Xa77LD/eN5vsjDGXt6Ooejq4pfuly5yT200deWS/wxP5He1CVNewl7ljLTXq5a3sDheC2dki5y1TaaaaKZPV2rsFb7HyVzGC7wGpNRl8/RLGRXDhJRausTj1wqIzxjwrFDa9osjHICXVjZBkAj9C76wQRxi7+Y9yUlZzWau+y2WxvaizEX4JCf5vSO6qIbef6mQ4Hef0V1IcxCjhkmtfRIJKgHHr50Gqv6gGJkaipN0iNanTgHCEYcU7YX3SsasbiOiCt5q6WLMU/WtPfOIgqnlP5Ilz2QlYJ4U3PbPvni/My/MgxCerle9u+DXQqcuTnYHVb11Ut/cnQzXGtrlRmnvnagu+EQJ4aF59ASq8Kp",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
