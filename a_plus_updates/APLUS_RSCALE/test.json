@@ -13,19 +13,19 @@
     "minimum_sketchup": "2023",
     "maximum_sketchup": "2026",
     "asset_name": "rscale_3.5.139.rbz",
-    "asset_size": 835286,
-    "sha256": "4312cc158e0ed314f8578607406c08a23544258f40779880c53d89c1cb2490bd",
+    "asset_size": 840950,
+    "sha256": "c8e62b7aa8d5abb41f505b2af7306731e502a019f49d5bd7d11175b32fa7ffd8",
     "download_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/download/aplus_rscale-v3.5.139/rscale_3.5.139.rbz",
     "release_tag": "aplus_rscale-v3.5.139",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_rscale-v3.5.139",
     "release_notes": "Rotate, scale và copy trên x,y,z.",
-    "published_at": "2026-07-30T03:01:56Z",
+    "published_at": "2026-07-30T04:19:03Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "RScale"
   },
-  "signature": "nxN9ZNSFs64Vg5jse1EOi0e66w5MXAD9N+FyUhs3M4P2/dSie6ZhB6IADBQB2Of6hS8cG/HlNrfGJhPdyz+VQOXcb73k43R+ur0dyZK23ZRuXBCGi4RA9CQ9uVsGDieZzkOO5ps3o3tLbY3HpY5XubuP2nxrID2W1L7T2VLhUTcQhAmc+DhCYDGSmqm5WUg1DlY1Gn2ruzw0DHgYUiapE4lhLTMYfFCm1SwkQ1kQESH0Anb07ABZ3TeHdQgYSqHZ1Rk3w57IC4vDHF55ua8lNGRZGYtw6qPFQuk/fPsFsio6fvNVrSM6+TEDlSfpNpSgS2P0+yzw/XQQyE5SO+OOUfVdMt/4UnMb/OGIAmT/Ef7JKAvgszbEBJJs6ZNowW33EJjQE7fF0uypc5A2zQK42wxMPFvIllDZ9mNQb/N6cSIFJjJ9n8PGQCJlf5Y5tJNvEjDwKhvTArM/d3jn6mJAl7fjlViSm8ANtJWgq0ra2vIcrsQNX4NznW5miEsEmpQ4",
+  "signature": "1IPNV+j8jK8De5mxVdD6tdxjuXLM5wH4mqVEnY2NZ1NNWiZrpAwbVW4SmkRXqqKerr+DQWsvE5w0hKDOuSTrx1o3u0K7PwvdT6MDF9gSgWJtpAx+0L7G1h/y3eCCrqpuH5pt4A4gh21K6JuZbN5J5lMW3ZgUfWb9tto6jbkq3fP8G1dwbHI2qKP7BI4soqu6inhoxES6GqdCgMDzl6gemDMdpJPRGGBt+cvVKHJZzTIliyDI/WYiVOhjOWkLkLr9/dhbBiYLsuwsO5tGylG6gimoJLCMyGg94BMZ/muByOE29gogiWtBupPqHu07wyTy2MB3KBk4FceDVZF0Ej1z3PTNGg+Xn9pFDAHL9pYJc/2mI+817/fZLH0TwNlpLIfVAR8fkgWzC0M7AlV45JApyZAWgKfz6zQ9z+VIc+Q6lHqBXRkmL2gHkpqfp3Ee7j9boxsu2CshsfOcvvet8ZVoFf8g/1pfMoTQnKdJBMgo27VSMDwcfYepYh5Aid9uQxth",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
