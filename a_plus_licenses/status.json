@@ -6,11 +6,102 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-08-17T15:07:30Z",
+    "generated_at": "2026-08-17T23:28:17Z",
     "entry_count": 20,
-    "active_record_count": 4,
+    "active_record_count": 17,
     "tombstone_count": 16,
     "entries": {
+      "1D33BCDEE1635EF7C20C4E10771CACB15D28CD9CDAA29D4E5D1D448A83C0527C": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "620F8B07145CDF67C5AD3AEFE5266ED5857144A9CA46D5A40D6CE406C3AFC767",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "E05DED31F0C8BB6B13198886EE9BCA912AD0C1C77495D19EC4725B58313E6A58": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "5381A562384916E2BDEB23E395AB4AA111D91D61FA46C275B5EADB8A029F98BC",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "73C8537AF47502867502A9775264DD65D114F1C90B9B1C025263C5A8B15F19A9": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "7B89CD32614020D48964C554E30D4A782B834FDA93CE7648640927EBB6C956F9",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "E4D0CCB8366FA8BF572F59E3E04164BEB2A3BC8D092C450CACD70174871EB713": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "6EA2876B65DD2A46E59DF1E7FE487B4103255DDC64690E666837EA5F05E0B0FA",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "D3346384F95AD5CFF7BF716F742B410D54D5D846573115BEDFC18FCA1CBF5165": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "44507DAFA69E5E693887862097D7583248A7C5F2822CFC81EACE47150283A4F2",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "DF09D3A428479FE39756780A316BE016880DCB1F17CA2A3AB6CC62EAC81E9287": {
+        "product_id": "APLUS_A_FIND",
+        "status": "revoked",
+        "license_id_hash": "ED3DF70DF4C9EF2B537364343D738F147A247339C2973EE8A4383E2B19BB9952",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "D1E4465B6645D8A1D261A046C6BC8B84EC14452B7FC2EE7A2EC836916904BD2C": {
+        "product_id": "APLUS_A_FIND",
+        "status": "revoked",
+        "license_id_hash": "F90993847174192F26EB149594DE7D357AFD98DAC385A84CD333F0E58E13DC4C",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "7DF04E51772B4C1042CE6ADB742C4930D1C994A5E4A9C9B12159DB5F61EED73F": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "A4E17D7526938DD03131B44114F8358E78445E01F88EDD12841E9DFDF5313382",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "713AD9E7BE56F3F88341536B828CD6B2D60CB877ED188AC49E9000670EAF63CD": {
+        "product_id": "APLUS_A_FIND",
+        "status": "revoked",
+        "license_id_hash": "957720ACD74CF02883F4A7482EE8DF604D7CE61BD29BD19DCD8514953A4CEB59",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "FF4A0B7895F3B6921968D9B46AD61AC707BE5A8EE5600B6F0EFAEE76EE6B17B1": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "FB8865EDB59CEC5F41D38F09EA1A92DBD74B63E939055A640CBA7D2D1D149F51",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "DD163104E825438540A925BC8F00D62D2D90AF8647A0C9F052828096DB0D994B": {
+        "product_id": "APLUS_A_FIND",
+        "status": "revoked",
+        "license_id_hash": "F8EACEE152BE67154F446A71958D59E9854AFB8493D3F72B1BB6F641FEAF29FE",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "B85B27022D085CDED2E2EE2F40A4B99284890055F635A7A40C40D9F0AD617AF1": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "17BADE99173D023B107FFAF64593067F926C60840535D1B5C282EE47EF029D7F",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
+      "AAE7DB09CB1CC7A3BCCEC88D2825C32BA1CBBBC9FFD6B2D39E6FC14B4D166DB6": {
+        "product_id": "APLUS_RSCALE",
+        "status": "revoked",
+        "license_id_hash": "0A121ACDAB3BF678CD820C8E00DF4F16B7FEDD99A6EB8F998D7B43DB1C1C05D4",
+        "updated_at": "2026-08-17T15:32:15Z",
+        "source": "manager_delete_tombstone"
+      },
       "8ACDFF398B76A86EEE283F37F6BB7EDC0DB37F80A141E5DC26103411E848A151": {
         "product_id": "APLUS_RSCALE",
         "status": "issued",
@@ -53,107 +144,16 @@
         "updated_at": "2026-07-27T13:50:50Z",
         "source": "manager_delete_tombstone"
       },
-      "1D33BCDEE1635EF7C20C4E10771CACB15D28CD9CDAA29D4E5D1D448A83C0527C": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "620F8B07145CDF67C5AD3AEFE5266ED5857144A9CA46D5A40D6CE406C3AFC767",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
       "32A3D8F4C959667D5EC97CBEE7745FF4BAD0A62A984AA6817F9E84B700A10A68": {
         "product_id": "APLUS_RSCALE",
         "status": "revoked",
         "license_id_hash": "6D0F665787050E72B65AFB1CE39B0C9FD2C3DAEE87604FE1A7DDD8F037447F4E",
         "updated_at": "2026-07-28T23:24:07Z",
         "source": "manager_delete_tombstone"
-      },
-      "D3346384F95AD5CFF7BF716F742B410D54D5D846573115BEDFC18FCA1CBF5165": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "44507DAFA69E5E693887862097D7583248A7C5F2822CFC81EACE47150283A4F2",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "E4D0CCB8366FA8BF572F59E3E04164BEB2A3BC8D092C450CACD70174871EB713": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "6EA2876B65DD2A46E59DF1E7FE487B4103255DDC64690E666837EA5F05E0B0FA",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "73C8537AF47502867502A9775264DD65D114F1C90B9B1C025263C5A8B15F19A9": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "7B89CD32614020D48964C554E30D4A782B834FDA93CE7648640927EBB6C956F9",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "E05DED31F0C8BB6B13198886EE9BCA912AD0C1C77495D19EC4725B58313E6A58": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "5381A562384916E2BDEB23E395AB4AA111D91D61FA46C275B5EADB8A029F98BC",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "AAE7DB09CB1CC7A3BCCEC88D2825C32BA1CBBBC9FFD6B2D39E6FC14B4D166DB6": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "0A121ACDAB3BF678CD820C8E00DF4F16B7FEDD99A6EB8F998D7B43DB1C1C05D4",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "B85B27022D085CDED2E2EE2F40A4B99284890055F635A7A40C40D9F0AD617AF1": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "17BADE99173D023B107FFAF64593067F926C60840535D1B5C282EE47EF029D7F",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "DD163104E825438540A925BC8F00D62D2D90AF8647A0C9F052828096DB0D994B": {
-        "product_id": "APLUS_A_FIND",
-        "status": "revoked",
-        "license_id_hash": "F8EACEE152BE67154F446A71958D59E9854AFB8493D3F72B1BB6F641FEAF29FE",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "FF4A0B7895F3B6921968D9B46AD61AC707BE5A8EE5600B6F0EFAEE76EE6B17B1": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "FB8865EDB59CEC5F41D38F09EA1A92DBD74B63E939055A640CBA7D2D1D149F51",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "713AD9E7BE56F3F88341536B828CD6B2D60CB877ED188AC49E9000670EAF63CD": {
-        "product_id": "APLUS_A_FIND",
-        "status": "revoked",
-        "license_id_hash": "957720ACD74CF02883F4A7482EE8DF604D7CE61BD29BD19DCD8514953A4CEB59",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "D1E4465B6645D8A1D261A046C6BC8B84EC14452B7FC2EE7A2EC836916904BD2C": {
-        "product_id": "APLUS_A_FIND",
-        "status": "revoked",
-        "license_id_hash": "F90993847174192F26EB149594DE7D357AFD98DAC385A84CD333F0E58E13DC4C",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "7DF04E51772B4C1042CE6ADB742C4930D1C994A5E4A9C9B12159DB5F61EED73F": {
-        "product_id": "APLUS_RSCALE",
-        "status": "revoked",
-        "license_id_hash": "A4E17D7526938DD03131B44114F8358E78445E01F88EDD12841E9DFDF5313382",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
-      },
-      "DF09D3A428479FE39756780A316BE016880DCB1F17CA2A3AB6CC62EAC81E9287": {
-        "product_id": "APLUS_A_FIND",
-        "status": "revoked",
-        "license_id_hash": "ED3DF70DF4C9EF2B537364343D738F147A247339C2973EE8A4383E2B19BB9952",
-        "updated_at": "2026-08-17T15:02:38Z",
-        "source": "manager_delete_tombstone"
       }
     }
   },
-  "payload_sha256": "ea30161d442e3ce99457b7def2c4a267d779eba0342180cf224f550d0dfa87e8",
-  "signature": "et+CMTJcDoCQjv0+m4eAOwh/O11n5yfw/h56xOyPSxlE4uYmNImPmi6u1yxV2dwAUiz/5SOMjf7CAwHE/2Dsq3cpNsgeD5WTjXoZW6f0Wj6MZreizl178NHz5+5qO8W1D5ae1eOdbUuqfukIY+F4hKyEN3j+ySkTBGLVZiHcKeXWv0HfEcwCnFECQ9SkS6vb5uPcGXaZd/mYGqYE9PcGRW8xipVQW+0GQJWYnRX5qbX07DXRp0Q9b8Mqi5AXVPb2aAAhfnkENnv3aiQMxN6ucpz7YIZv8A7TEJk9PW+v/nR6gawkeOK2LUGYzgKrUP11BW3Ekc+HXPsOlCf5gDB16ak0Ao3bPDvfWWm4T0VD9ywuR9Rsp+H1d0vfxIlGMkdiHycZM4W9vI4qoBsmE24g5CEo6uXsWLJC6IUJicSHjJ3sxTvzVL2k/I306P/zQ7WjfjJxTKkkp1OanHFvIHxeu+LyKOi8EKr1iPM6GSXFxThGxVq8xhCxb3mv7JNqWy+r",
+  "payload_sha256": "1ce1b0c050881d1a052aa4ceda5bcb60e69f3578d7d6eaa117955ea40bfa31b2",
+  "signature": "o4uyhryeZtwG7pqgslCdDcSr+UaClu7scAV6HPu8xz13+J8rRBwCXin9QbuMftHpiGvFz0RvEe/ANp1KW3tJCpqh0M1H8juIcDs+VMWXxIt8ZkZBt2j/joVVrFS98zMTVmvfjl/1J8vvfcP/zKCatC3q1vWrKIqAQ2MOl0FT9azss3zOp98su/acYHMqBEq1sXkN5JRxgjO0pbZU3IrkmyvCVXLTPCeLAlE+m0yVtO2t6aiHNxWqRuuu81j5aHyQsRAKFwtaszMqPNaJXxhe79eA9Xb+3xzsYVnVP6eTxQEomP9Yj1ZL8ObtfWnZ1dh4mxU0UvVVwynEAWJvP/K6w7qo/Lh7x3T6pjE30cxxnGX1R5iFjTfIZnCURkTBwr+1ou0Jjt/1tlFAiuvzOBvbUMLIfwrTa7eUHHTXvse/u3aNoXb73G1mMEG12PSyWp8SeXbEombkGkEB08cXNzDsc6cd0z/ySyDmjvrK8y+h0iDQ5W7IPB5ilG0iIRUKKItf",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
