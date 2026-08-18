@@ -25,14 +25,14 @@
     "release_tag": "aplus_option-v9.892.1",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_option-v9.892.1",
     "release_notes": "Quản lý thư viện và Preset.",
-    "published_at": "2026-08-18T08:36:59Z",
+    "published_at": "2026-08-18T08:37:31Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "A_DcOption"
   },
-  "payload_sha256": "ecc57b5d09040497d65a7e2669848ff6d8dbe31533a47da8542f0dff28bc93c9",
-  "signature": "vgaG3+n/bMdpdbHvvJiJGtEfX6QaW+LHxiLi+jkUkLrT8im0K/iXWvFJVD78IT/XdmR7dT4o0V9oC92KFXB6VIrGopVbfUizWWqMH/TuoHeR7sFyzETe5fbPOAq/tK201zpzWecMX4p2PoMGk5LFkr6jTqEjjicNlhJQe73tCe0oqcMoE2LUI2RthdKz9CxS83YVTtxehobwF77d6hLy4Mcaoeo9DMd8ZR77Dcmm0Tn+ICyVtJX5ekfSqGnLqnu1HRPy/gK+w5YL4OlpaggVZ20ig8u/2el2RWu+Mke772cwofOuWShXtOJ9hBZA9FWIQt+biBHWv/eultH0tTmmVWXGwwCE6AgVUXe747Q5aK/2oTbWZLxB0ZQHeY3Od1krXw5f5vviVcfrHBmhdUCUNufPopPpYKPI80BobRdvYyVSBjf5w5e9S/oAjOBNj9ec2AumYBrBUYmx8LWktwjsjWdiuA4t5o2sMop2TM1PJjPDluxbxbqIjv3sC1AaUwZo",
+  "payload_sha256": "4eedcae4e8c27d15a61a4148b89ec6128b02f26f39343a66c1a0e4ecbced57da",
+  "signature": "Q3/B6RNOPyBujqcpLCKTQ23w6rf6EjQBhus3otySXcPVZteIAl3cnznsiTWAuZ2/S93+QZip/w+NFWszBMiQIzgrlYTeMnA+Xe2Kgd9/f1uXCzj4NBxF7rKOhvB+uEDn+yNfoYcnEnNgt8mZtBAdEAJG/YuOTcMWelQTTB6IdYiXHyn3EuXwnlupKL+n4TOsHpfW/6bMWHWjPA9kiP2O6uGwX42YknO3h0Wo/4aB2ATHDWt1hMXTNg3x42wXRUtjHXfBj+acVCLaGEu0M4lxgF67Yi56tnvCEeeOQI71Y/1iduSCjspYt7OdR9o8Y0fCaxUJtlstlqvF+1lThM8/6nd4O44I4/5RkUjBBAql+XUTBsMfYZGcgZqiHWeV/4pQM7fMhe4gR/grIqTxXLb5Gy2JEKeqwDlwnTGj+LWNN5e0KqYSvaRhcBguWV1/pb3cx5kJttlASkE/ZSO5j8qzryHp7C0w6oEPJhioApVWjZYL2ECZA/jq/SkMut5eO8Vd",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
