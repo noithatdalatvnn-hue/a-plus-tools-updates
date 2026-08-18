@@ -6,11 +6,18 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-08-18T00:37:48Z",
-    "entry_count": 20,
-    "active_record_count": 17,
+    "generated_at": "2026-08-18T01:24:40Z",
+    "entry_count": 21,
+    "active_record_count": 18,
     "tombstone_count": 16,
     "entries": {
+      "6DD9E21645D9FEBCA1E1E1B0EE07C3BB7392572BAF431FC7AB1D94C110C0E58F": {
+        "product_id": "APLUS_A_FIND",
+        "status": "issued",
+        "license_id_hash": "3B18D463B6B37BC17711B940EEA46A40FA23693FA5F4CEB47F388BBDBD8A44CE",
+        "updated_at": "2026-08-18T01:02:03.666Z",
+        "source": "manager_license"
+      },
       "1D33BCDEE1635EF7C20C4E10771CACB15D28CD9CDAA29D4E5D1D448A83C0527C": {
         "product_id": "APLUS_RSCALE",
         "status": "revoked",
@@ -127,7 +134,7 @@
         "product_id": "APLUS_RSCALE",
         "status": "issued",
         "license_id_hash": "499B5236761468978B9D04828EF42D6505A9EAABAD0D6E1E7B29CE58EF1147BC",
-        "updated_at": "2026-08-01T02:04:57.358Z",
+        "updated_at": "2026-08-18T00:51:30.185Z",
         "source": "manager_license"
       },
       "27E666EA04CB13ACB6302979C9667BEEA5CCED1928D44F34723933816218857A": {
@@ -153,7 +160,7 @@
       }
     }
   },
-  "payload_sha256": "3ddc435f0ad5cee56154d3d3cda1e02cf322a968d12aa942223cecf8c5e0e903",
-  "signature": "n9qE4wKJeNlPW/mP9WhQe3nFOVEXJ05QWAaj8fKOe3AyRHLRFSKOJoPcQUJv5H/R4yABB4lcEriNX1KojwYFOlt+dVHKN8on14b/VLbYBdth1NGmQrDOgzEkxEJs5TPnRYGMZ8pp7CQYnwF2EaLG1PnbC4oOxlUbKPe3YRxJMfeosULwqcDV+cq6jNuYmM/k74OVgrEw6azxU2O5pD+WZxobd6/7OmS+E9zsofYWHQBWh60UjD0yWVpqEWQNkBP6AqYpMw+CqKXF3ODQkjYeReLRYxDKqUfzMV/Br6p1l6wW4omRpjG/hk8JiDlWcCXik4ECOZ5HdBA6ZtoA6o7Dnc9Go53Oh2I2M4sYfmVl4pgSrFMc/pXSsPqiPos8Q5UwG/3Lob/PBd1PGRv3FLjYgLNzyxNVw8R0cvmP+CjZBgFnZvZ52NFDWmM1k+Yt91Pk+ZjqGmUbeL5r0ti8RgP2OJzUPULysOuj5fMkRUfhM9hAfSTglnwoUj7aUUucp293",
+  "payload_sha256": "ab3e89e246eddf724cdf9417481d18befca9ea504f7ae244731bd3cd2d5fba00",
+  "signature": "dJR1lZyLISSnWRcnACnYA/Kps0zyhgHx/+GBK1h3cyTd/ODiwc+BAlI7Tf6lOW6XyjBNmBLlYTmKdBOPYyOhHNxVSW9l9SaLgr+LJQJFwONdW4UlYS81OX7u96YPuJnMR6IXMhtuu/6+0G9Ghu5c78QPIyfmg58ge6StqNHLTemuslooajTAeR3PY3nLqGfDoaHUDhZ4okdb87rzJYT53XUrKonoqy/CxJyEOoYvoz67HX1sIqbGdSn08+O+U9ddjKTMTxt3dAN7N5CHjT96BTXsW+IuL4DvsOgMNUE5L6Zb+prNLdbxomHIohK2uHEKwy1fvIlRVx3ecmGiFdrGv6bz4S8eaKMMGIITAC3712KoexYoKyeI9HNM4v61Ec3RaztEmcoZxH3xzSHvZ4QiJuxcbxfGpeaCGRMXk3/60h61OVcF45dYtzgubT7HNPdKf9whgai7ZY57Q+t4kIg3ToiVGMx3ddc4c1aSB5pURAhUXSCXTHmFxNo8efd4hCg6",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
