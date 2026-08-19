@@ -16,7 +16,7 @@
     "maximum_sketchup": "2026",
     "asset_name": "option_9.893.6.rbz",
     "asset_size": 5088796,
-    "sha256": "d6b70cd6eb8cdbc9a01d7d7d775bd78937dbc095c90faac72598ae574abb1ace",
+    "sha256": "458389f835ec602a31ba6f7419f6c3122023dc283e63d3e656b50d077d7dda23",
     "download_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/download/aplus_option-v9.893.6/option_9.893.6.rbz",
     "preferred_download_url": "https://pub-4095dd6957aa43a098de2548a3d8e13e.r2.dev/a_plus_releases/releases/aplus_option/test/option_9.893.6.rbz",
     "fallback_download_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/download/aplus_option-v9.893.6/option_9.893.6.rbz",
@@ -25,14 +25,14 @@
     "release_tag": "aplus_option-v9.893.6",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_option-v9.893.6",
     "release_notes": "Quản lý thư viện và Preset.",
-    "published_at": "2026-08-19T04:41:39Z",
+    "published_at": "2026-08-19T06:35:58Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "A_DcOption"
   },
-  "payload_sha256": "3963e0b0b7d08198ecf7c80fd35ec0061eafefda13cfced56dc3e4a657cc8b28",
-  "signature": "ZjbdJhsPqkE0m+DYKV0Zs9dEplyY/6XSYDFd+Wki+7u9OXpqcHB7Zi8wgRNR5LMIp4BSpBsUm5FuXtN2WgDJpYMQ0d4Rc9e3LzFfddku3v0BhsbE95ke0fyUucaun2M4/HxdmAhSo8/A1gSTkigtj514PWapY1eON8A0rqPrEzZDGjaPFUG0v0/tCeUWc8OaBScOrbJmEwMS8VY+5XhldAiIIG/4XQxYqBlAfoct+xas7uWgrFYDvb1GdHasySZ20HTwNbldl6UGiLa+zB0An5K3fx7GXX94UJEYHsIn7IVXjQWhUlljb9J2PiK3ZzrnjOGngXmhaNLreH+SfRdTbAilEteQmpMpOONRQg/60qgeqe3mjAGkrBlRAobYS9cxcad+C47Lw63yzZn14ETLEQ9jvMabF20BAnwKt9TJvf3vCpfXsYWwSYn7Q/7IsVJkkcnsHjH783210wip1TbzWxS9AoQRcqsmpT1cQebzi1tAyhYhnc4jjWfQyI/aob4z",
+  "payload_sha256": "7c602498fd690f227b0f618a17bc4c967376bef51134c63c6f9eee41ea36eb7f",
+  "signature": "k5QQcIEaNffDLCRZOJTBsoevuKDIXaJvXjVT/hY43VOq5wP+6HvQOaUDitbJI1fd3OGlUScizl0m2Rt5Ba4uvCIB3MV+NR0Ni5SqavUeNu3gkBjbMNfhKi6AhTgx+5tSBUUjYq3YO9u/orWLZ1DcFmahOKoJUpYfWHGKVoqjijXLJizBPOZcEiyQCty+RkfXRb4qRhnbaon/g+UCffX+E3wgcU3wCVfhd+Vv+ZIN1t5HQvTNhrQMcYWAfofNfixG1CvD8swbegGPJywHrSqP74cnsz0Uz/Dr7T9fLeK9ZVPN3gG6pstcMyjrmkS8ptylYTL3zavSxulf0De0rLf/3i1oIVvF9cBnwnsBFEocoE6blrNhONWVcRW7rBupttXT4bpvtTUQclRJ6hs9RExTqrAw06Hy8IR15wa3Gcr3B24qqutoxISdLARGsSmpCCVY/OwgOg09ZL0Io+hGg2FC44MQb53HR6cnZw+ts1xgglFNVqcnKrhtM9MHvt/FTFWL",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
