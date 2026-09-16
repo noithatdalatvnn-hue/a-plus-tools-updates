@@ -6,11 +6,18 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-09-15T14:58:58Z",
-    "entry_count": 86,
-    "active_record_count": 83,
+    "generated_at": "2026-09-16T01:15:26Z",
+    "entry_count": 87,
+    "active_record_count": 84,
     "tombstone_count": 16,
     "entries": {
+      "BCD5B9669CB2DA60F72A0118F732148C2E9C5874B0B63AD2017028AA2BEF29D4": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "issued",
+        "license_id_hash": "6D9FD3396372291CF88ED5E1893F0681449C571B9A4BEF32A2E7D6CD23A3C6BD",
+        "updated_at": "2026-09-15T14:59:44.815Z",
+        "source": "manager_license"
+      },
       "5DF3AAF38A6DDA551992A68928C7D154DDCBD3D9FF37F0B1B332BD91A0782588": {
         "product_id": "APLUS_MCOLOR",
         "status": "issued",
@@ -155,14 +162,14 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "35120804E39C73E7D6DF56DC763D1C2CBEBC1B167916A128396F40A27E41C0B6",
-        "updated_at": "2026-09-15T14:58:39Z",
+        "updated_at": "2026-09-16T01:15:15Z",
         "source": "manager_license"
       },
       "A4A7E3BA14DFDE19D7E20364B4A61ABDD330F9A6EB7F90CBC4372DCF561FFD96": {
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "53F38D859CE09BA7D83886CAE40C2BAAF9676C0A46120187033CA8F1797D5C4E",
-        "updated_at": "2026-09-15T14:58:39Z",
+        "updated_at": "2026-09-16T01:15:15Z",
         "source": "manager_license"
       },
       "C4B67990B2080FFC004915E3F2E724F582B6056C06F3540BCB2D2640E169A5E6": {
@@ -197,21 +204,21 @@
         "product_id": "APLUS_RSCALE",
         "status": "replaced",
         "license_id_hash": "D3C803C65FB994D93599EFDC4B87816A0D499F20B438296E1A4CEF488118D2F3",
-        "updated_at": "2026-09-15T14:58:39Z",
+        "updated_at": "2026-09-16T01:15:15Z",
         "source": "manager_license"
       },
       "92EE5E564B1A5115698A67C15BCAAD459DFFCE2C9A60D2B099422925A505B0EC": {
         "product_id": "APLUS_A_FIND",
         "status": "replaced",
         "license_id_hash": "9EAB655794535C63D3A7838299A7874454E26A9A6BD81C38CAFBD8131DAAF683",
-        "updated_at": "2026-09-15T14:58:39Z",
+        "updated_at": "2026-09-16T01:15:15Z",
         "source": "manager_license"
       },
       "7F9FE00E0568B34B2A0F53A395B8262687D7D3ABBA453839B08DA75BC9A24460": {
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "EB0C182658F679FBF06227779BE3943AF2C541EDB8A251AD7EC46EC79E3466F5",
-        "updated_at": "2026-09-15T14:58:39Z",
+        "updated_at": "2026-09-16T01:15:15Z",
         "source": "manager_license"
       },
       "EE3A7F618B57D3EDBECE46A0EB341F11FF50F97727F48D52C746D9004AD7008B": {
@@ -414,7 +421,7 @@
         "product_id": "APLUS_RSCALE",
         "status": "replaced",
         "license_id_hash": "A2D4B895ADADFBF5A0660D3415E494B1F714A8B6AAD3C71B57E3177A13A88690",
-        "updated_at": "2026-09-15T14:58:39Z",
+        "updated_at": "2026-09-16T01:15:15Z",
         "source": "manager_license"
       },
       "DB5B0F2D5B00F16158F1428FB90BB0A2DC6EB020A7A28E4C58A1AB6A8B1C8937": {
@@ -615,7 +622,7 @@
       }
     }
   },
-  "payload_sha256": "5e52025bb4b584eebfda56f524f2a268d08d3cb112266f44d18e2cd09d878c2a",
-  "signature": "kPGMTpTL/dc9SyTINtl/gdkAhifVq+xxR4Q9SYwLd9l9A4H0HtjNPoHMNIkjVexjNQ8JbPLBX4NX/W1rUcTyUV0pmRLFTHcYD1b9BcqLx+ToC9PeC8Lg858slNkr8VFjOiWNYzoTUe7QYiGdoOl+ZUWSvh5SI9Cjs9Gc2uCmggJlYNyzBapgV9b4XWAAfXnMpundr4ekYU0c7GklTzkUlJ60NGkhyJlUfalfbR/e4wAjYbWUhWiYwHNNdD6+0P7eHy37cfkX3l+Kl8z0whSn7OiV8ElqcfnNq5izMXvScackLb/azCIcepfWYGONzzTUoZXn4rDMEs1eeQwcF9TSaqO0TMnsc2wB85qOH0jTJRuYQkIxUTQ0SSVWh/g8z/A2LeKWYb1AkSx89yPShIKad7zLPZs0xgl6QUYdyRcAUFMdjQ1HvC6BOXL8cns1GmGiBO4hmEtF8G4HIBIps4vRNQhsidh3ZjzjKhUT78k6SjIx4SViKt8sXeu/LFROYe7k",
+  "payload_sha256": "cdd6a72c2a07b54e2bcbd69ffb6c868a12fc7316fab7caf63681d4be06d44f5a",
+  "signature": "m4xZA1U9cI+tCwCJa3l3BSuM3ActG0x2jmfXJ7I8feV5v8aZ14hQub+gY0Z704jqYeAUpjx3GvsduPUFN6Kx9tUg6GlHkLR3x6T5tnXj8fsH513fT3KVXwWl4HUnpYmFsYjlCzeMnXsRGndCR+eljXGLLq0CkuawsSiJJui/EGDzjs1nsm1w+o2vfWLx4SO/5MhwDFvM/Gfeg1vVZHMoQx0xtuspA/GKkvP8qrZTNVEmH3kxk5pjuzun+tiTXBtUGLvucp8ylEf1i3dx1sBpV4zD0ZUMvtBLtdQMTN3TaEIHliZd39rblJNTPV6LvbGY/Kms80dk4/7n38/XZuXHQ5f5B2P0U9erpPBDSeq5ZH/SxMrWX3ZaGhdTspPJrEhg/7P9bhYVLLPNSx3KlhWumIHMlGKXBbLV8Fr3EcN21w7KiIjf3BICipZX4V66G/6vW9OsBNmbCIpkeEf1yTdXPjwj23w4pOZLDGTdQ1hccCgLl5ZZe8/SHgmLzEOfldHM",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
