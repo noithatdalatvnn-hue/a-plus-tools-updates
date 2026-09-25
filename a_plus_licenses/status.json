@@ -6,11 +6,18 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-09-25T13:01:22Z",
-    "entry_count": 113,
-    "active_record_count": 110,
+    "generated_at": "2026-09-25T13:01:49Z",
+    "entry_count": 114,
+    "active_record_count": 111,
     "tombstone_count": 16,
     "entries": {
+      "51A64CAAEAE78BF9EF38DC146E869832C2066164A81D56006E3AB9FEB91E7BBF": {
+        "product_id": "APLUS_RSCALE",
+        "status": "issued",
+        "license_id_hash": "9613FE62F6CAF73BA1DBE0C02EE19B89CDEBB644034741A1CFBDBFFC65BE2FD4",
+        "updated_at": "2026-09-25T20:01:47+07:00",
+        "source": "manager_license"
+      },
       "BF5E542B6047F54F83B0F4B2A5DE196329E044A0A6A407081262BC03CEC2F964": {
         "product_id": "APLUS_OPTION",
         "status": "issued",
@@ -804,7 +811,7 @@
       }
     }
   },
-  "payload_sha256": "2643b0d83870d7e87ab9da0a4a470e44577808aa19f293cecd193e392828d4ec",
-  "signature": "v1B7IkwBJUZInmudEdPipeMVoRfGBhIBMjU01wZ6OcZJY1NPwZku8+s/OGjYDc2BlnkW4dXVlqVaXDcN41nCt9uvHLYDXvQ9cuy+FebfOCqpk3wtm+C3FF6oUEcoHLjwFS9bdarr9QXmqfnzIkfIHmDi/Tt0FNKE9/eagQywM9laKnpUzRNWFrfevOVjkwvLDU4yecTMnz3rTk6oZTxNlju5XRkgwCxaX+YRZAcqqd0d3uQXvEZ2+nXiqeFU2qcYnZ9q/VUiEMIL0JnflCHwdXyZfStwf1ZoLirWCms5Zo67YvfBqLse2j5tsC08KeNUrOuO9nyBX0oz0j3dqChiJEJoA2+8VkkTAkESXgnFG3kGx8KMG5V6iBaEfEZLi+QSComqH8qAn7z9JOZyUTwxXXZstS5kQS4n2GdPyTKBSoGXX1NICNKFvQpCfEHHRZbKHt6Ry8SZ6m3r9GeTnPkWRpxCeutK5iPurscVlecc13eU1142aCr3+6HdoojkX6O+",
+  "payload_sha256": "7d4d4802628baf7b54e4d67abb07fb01d4359af6f678d6b4e5639c60abd58546",
+  "signature": "i9UKSFCk6XLHoTEtVbwEDuOnqicpS9PKHEUFaYy7dmvn9IVmtEEF3ER6rdDKoPu5Eni9gth5xOZGMsoYlBgnrUcvALyAtOA2gBE+rT/fBLvRtDwfkUwoCKM6YLdrmsbZ18fKlhHrk4g3o4MImJCNTNBxmamd5MpY69GAf9aAC+TVTAaB0s96vroh2a0wg9Qy4HC/wPT3v4dLiRdxCAl/J5G3il2y4iX3UjNnydW+7Hdr3Ux4l7ofXy4d0eE2ljbZ8k3L/6o4t5Lr5Phpxk9itACW512gKwZ7HlWZsu428xhI1VhiB1rg6u+veS8S3KgJSK7LfoWUs2FdWal/FP2iEdiVcc5loijyD7SDZR745ZCG9ewB8zkmGA9d961LzCoLiUf5iMh8arCR2oZg02P9YnQgIqdGZKX8ZK5pmv5au4gEirz69O5wHMgNRxY91PDHgAFw0TQJyp4Fzw16G+6+5lDi6opHP1yPhLCxuym1XvVB3j1Z/Gg4yor5J+MzRuOk",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
