@@ -6,11 +6,53 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-09-23T16:09:57Z",
-    "entry_count": 104,
-    "active_record_count": 101,
+    "generated_at": "2026-09-25T07:28:25Z",
+    "entry_count": 110,
+    "active_record_count": 107,
     "tombstone_count": 16,
     "entries": {
+      "6A6B91F6E7D48026BFBB0CC47BBA75BDBE694F95951F62C7FACD40D1A3BF6CEE": {
+        "product_id": "APLUS_OPTION",
+        "status": "issued",
+        "license_id_hash": "D65559DC38BBAD62954311BCDA59594B0B2CBDE837BDBA492BC23E9DC35D59FE",
+        "updated_at": "2026-09-24T04:44:05.986Z",
+        "source": "manager_license"
+      },
+      "7994C9123D6E16B2154F61B63E2B21761EDF8EE2E12DDBFAB62E06DB3AC1D67F": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "issued",
+        "license_id_hash": "D36F4EF3D4B6E397A8A5D64076846BF73CFB7FCDE98CA103B265E8DCD88BD9A1",
+        "updated_at": "2026-09-24T04:45:50.978Z",
+        "source": "manager_license"
+      },
+      "30B55ABE7538A7320E57BE402025CD0E9AD63A3C85514962EE0192435AC7A1FE": {
+        "product_id": "APLUS_RSCALE",
+        "status": "issued",
+        "license_id_hash": "360B0DB7915DE954CA5F2515FF8B85C699E94545DD271DAEA544039DD3EDE399",
+        "updated_at": "2026-09-24T06:55:08.186Z",
+        "source": "manager_license"
+      },
+      "DD7CDAEFBDC6A25308606850423863EDDFFB5FB72F62913B1912FA76679EA2C7": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "issued",
+        "license_id_hash": "23E1856AB55E0E6A8C4847239BFAA4DBFB0C6B6D48A6A5854F493DD28DCBEC6A",
+        "updated_at": "2026-09-24T10:39:56.831Z",
+        "source": "manager_license"
+      },
+      "0A0A6E2FEDDCA44EF4D825FA7FB90E96B7FC9F4D67CD23DC0E1605E1351CBDD6": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "issued",
+        "license_id_hash": "64136546B21BF5F07BC4653D20BB8F6B0F64356667418AE61FAAF77BAFDFB363",
+        "updated_at": "2026-09-24T14:40:23.149Z",
+        "source": "manager_license"
+      },
+      "A9E8EE87B3C57A7575B8410D3830EC426F7D0C138662C65642756B6326DEDB81": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "issued",
+        "license_id_hash": "E16BA6FDD79CB0D4171F56AD9AAB3007FC59FC2029F4F816883FEA2D4FD4D8D7",
+        "updated_at": "2026-09-25T03:40:56.674Z",
+        "source": "manager_license"
+      },
       "1C905EE1B66067A389CBF392FA3A53B9FE4178555470E8C5D534365AAB69AFEB": {
         "product_id": "APLUS_MCOLOR",
         "status": "issued",
@@ -106,7 +148,7 @@
         "product_id": "APLUS_MCOLOR",
         "status": "replaced",
         "license_id_hash": "F5EFF96B33BBC3266D01C4A2BED5117BC205EDB857B8E8B3FFFEA92B944902BB",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "D82D9DB185A91880763056CE76171BFE76E375EE0775A34A5C4E652C7D91A903": {
@@ -281,14 +323,14 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "35120804E39C73E7D6DF56DC763D1C2CBEBC1B167916A128396F40A27E41C0B6",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "A4A7E3BA14DFDE19D7E20364B4A61ABDD330F9A6EB7F90CBC4372DCF561FFD96": {
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "53F38D859CE09BA7D83886CAE40C2BAAF9676C0A46120187033CA8F1797D5C4E",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "C4B67990B2080FFC004915E3F2E724F582B6056C06F3540BCB2D2640E169A5E6": {
@@ -323,21 +365,21 @@
         "product_id": "APLUS_RSCALE",
         "status": "replaced",
         "license_id_hash": "D3C803C65FB994D93599EFDC4B87816A0D499F20B438296E1A4CEF488118D2F3",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "92EE5E564B1A5115698A67C15BCAAD459DFFCE2C9A60D2B099422925A505B0EC": {
         "product_id": "APLUS_A_FIND",
         "status": "replaced",
         "license_id_hash": "9EAB655794535C63D3A7838299A7874454E26A9A6BD81C38CAFBD8131DAAF683",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "7F9FE00E0568B34B2A0F53A395B8262687D7D3ABBA453839B08DA75BC9A24460": {
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "EB0C182658F679FBF06227779BE3943AF2C541EDB8A251AD7EC46EC79E3466F5",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "EE3A7F618B57D3EDBECE46A0EB341F11FF50F97727F48D52C746D9004AD7008B": {
@@ -533,14 +575,14 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "32807F3AB219DFEDC2E6CC129CD2DD577A3281F481857FD6995B3DE25C2A836D",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "3C20165480E6A1608993E2E39E1617007FADA0215725947A64549C0EE0C7D009": {
         "product_id": "APLUS_RSCALE",
         "status": "replaced",
         "license_id_hash": "A2D4B895ADADFBF5A0660D3415E494B1F714A8B6AAD3C71B57E3177A13A88690",
-        "updated_at": "2026-09-23T07:12:40Z",
+        "updated_at": "2026-09-25T07:28:18Z",
         "source": "manager_license"
       },
       "DB5B0F2D5B00F16158F1428FB90BB0A2DC6EB020A7A28E4C58A1AB6A8B1C8937": {
@@ -741,7 +783,7 @@
       }
     }
   },
-  "payload_sha256": "7aa931cc55d38e642caed3bd34c50beb000a8cac510907d1537936100f34199f",
-  "signature": "Y69Da0cYqFeFsgbAmmiHJow7FNcppXs4/5NUJcqE166GLNxp8Y48YNsTKPKFjTkmkQvvLQpxv/UyZGoWHsxDpVTQa1iZRN8ymzLoe/lMLqrJU601lRwqaKlUCNhmiIXY7C/NEXixyottqv0+ZvuToZmMwJYJuz+OlYjNx7s4cYqSh/zJopa+z22FhjsbDTqY2IOngLt6aZk7rNuSzfsART7kRGbYVj6R6lHbnhhQNP/d19EcApH0mmV/1FdAAii5dDZPIDnWW0JW88Vx15Mc6m9jqY0CoCphnMSJton3FLNbNX+DWNSqp1euX0aY6fISYFOFKA3fd2W3ewxoJe4IYJxFCRycaiWgvfRfgif0isEJl6ZgIFiXCrIptBNUV25/W0UG5eFfhiIgiggF0aIrugycmITKFo8pF0HkVk2mCHKiePGGl7nkvLAvecMJYFfB3paPxrGrIgQj4sAbK5vYLjivafO3RzZS6q9SJvr0eT3xaVWXajHOROZLt1crX/Dr",
+  "payload_sha256": "8d3dcc91367f1052d92b6a057c56a0f0e0f3c82b24b76a4151f7712ba8d796e8",
+  "signature": "rrQgoRXN5sTsSntlyyeaNKQUQh9Eyg/speYWoOwYBMDRYJBc1WBA28r2pVMgsxNcie9V4qUYd1JpNpROhJKdOfPJHGjLtTgTJJeRyxWVhs52tpLFxgdqTYH2Sh2M3AvmcKWkEoxDuc4d5wuSlQ+TBi+1otGEl1HydJVv/fQ4e01gdUEr1CzyzFAx6OfGsqr8wpawGD+fp2T3/bHj6pSgdYhPBwSacPmVCIw3frOb2xT5TZ6k5IxQGwlV8in6CRkv7oU+KUnOHLGpSbTuxwXQHMAUMcprnNYA602zyFML6PIC3QxvqZCFSexGDFFQ5/5g05PJwHkvM+pTxMDuXRr3ysKdy7VroRlmzYfOURhPWB6Z7vcgcEoXPtXhfhJGyFY9bNw+7XsmrDC+L1YmEydT+tatTnHJFugKN0H+uD2IonJAoyoRWgJRaagj264aDtWj1WrT2/kmjcmhILI4KC9pPv0gZdWVfj+87yJx4zy9BHoJIFoY94QNVk3wGpFLefc9",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
