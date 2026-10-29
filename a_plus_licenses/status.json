@@ -6,25 +6,11 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-10-29T13:46:53Z",
+    "generated_at": "2026-10-29T13:47:26Z",
     "entry_count": 237,
-    "active_record_count": 131,
+    "active_record_count": 129,
     "tombstone_count": 110,
     "entries": {
-      "53E32E13107E4D321C2BE3E1DFCD7098DBEDE671794AA2702854FEA324A1B8BC": {
-        "product_id": "APLUS_FIXLT_101",
-        "status": "revoked",
-        "license_id_hash": "02F35BF4FCC5115FE8FE6682C1CBC95BC53734D2278785710EDCA23094616C5E",
-        "updated_at": "2026-10-29T13:27:19Z",
-        "source": "manager_delete_tombstone"
-      },
-      "66167DEABED2B2BE0C3E65BD11B24D1C7BF6C63A7B529D559512514E328E9A60": {
-        "product_id": "APLUS_OPTION_DC_PLUS",
-        "status": "revoked",
-        "license_id_hash": "7B732DA73005A53D882354F58AFB2F62730E00E148FAD543D6A1D7E3BFF7D60F",
-        "updated_at": "2026-10-29T13:27:19Z",
-        "source": "manager_delete_tombstone"
-      },
       "C745BD14D3D4C2BF94D226123503B0BCA4962BE7D24BD025EE79C6490CE5488A": {
         "product_id": "APLUS_RSCALE",
         "status": "issued",
@@ -1026,6 +1012,20 @@
         "updated_at": "2026-10-29T13:27:19Z",
         "source": "manager_delete_tombstone"
       },
+      "53E32E13107E4D321C2BE3E1DFCD7098DBEDE671794AA2702854FEA324A1B8BC": {
+        "product_id": "APLUS_FIXLT_101",
+        "status": "revoked",
+        "license_id_hash": "02F35BF4FCC5115FE8FE6682C1CBC95BC53734D2278785710EDCA23094616C5E",
+        "updated_at": "2026-10-29T13:47:24Z",
+        "source": "manager_delete_tombstone"
+      },
+      "66167DEABED2B2BE0C3E65BD11B24D1C7BF6C63A7B529D559512514E328E9A60": {
+        "product_id": "APLUS_OPTION_DC_PLUS",
+        "status": "revoked",
+        "license_id_hash": "7B732DA73005A53D882354F58AFB2F62730E00E148FAD543D6A1D7E3BFF7D60F",
+        "updated_at": "2026-10-29T13:47:24Z",
+        "source": "manager_delete_tombstone"
+      },
       "CCECCE0D027DC8A5321A4F147E792366D6CBC8278B3A9BC360621B70D2A10A40": {
         "product_id": "APLUS_FIXLT_101",
         "status": "revoked",
@@ -1672,7 +1672,7 @@
       }
     }
   },
-  "payload_sha256": "b8bf425c6683682fa4335d88fbd9770fc5ba8f980dbb94867ca36e72e7d9c329",
-  "signature": "b0oqLe0enGgcI7CjbwUNfJT42Umh+gJqNOQypn1QPlWiMwRGhNJKWXQWkfrBU497YeLZK16vJRnx8MWUEhTMDRNV6GNepdu/o+0nq2pSa+m+Tt47a9ab1RDF8O5T67A9blXgp2SFI5EIYoZc80/RFBpVWoHSNsqmPBf2Yk7xR7/sxMW/T3vK8OLOBmdYM/tlyZAmWqgQxXLs/meADN0vxmkDfdIik4IaKNqLs1iq0eh/nyIn3mp4XKH+kOz2KuDkbnq/A0oKpes7cLwhbQK96a93t3CZV77wzYmfYpK6eHWyTNDcVWDzOj9BAADrTEQALt6ImbxSOruNHU7RHitZz3t5JoJVOrw0dps5ybVo6mtm2WyzKRJX55nFu7LTYMjz5UECfozZp0OVyDfxK6oNGd0AEVAuzmqf+bg2Ogra8f0UqEggboaEuC3npjQ3hn3Uwp9K5X80f1zdq1jl6No8v8JD+nnJbwXgltj+pyAXMEawt/OgLB472t485qEj6XPz",
+  "payload_sha256": "b1971b06ea17373d4b5d514b4c8df8e2b111eb74b71d3ce7343ace23de05aebc",
+  "signature": "bPJfeEgG91wU/zLJhfkyL4+rjxhrKKrsOWd4OMpsyq/NytVK2z9O3J0PmVUX4IAC7f2mGONjxRUx3SwUdRPptXi4ENgs7C0MG9/2OLSTu5Pgk2a2hfCIIEyuuhRUng1uNJpumhD3HAA1YeVW4TapQtvTgvWkhhyM5gMlxxmoSaENoTri8TU+Ou7rzxqNP5T9TB+0QkSqksat+9jwoKTtCDF4z8SbZpZ1JfzHEYZdpyBX8yWebxzZuZn/p9QiUFMxMoo/bYteNQuLlQqaAcs8YhPU4LwQBpUEI7DyVnHA2pvTvbD8dkRO1by8zKH3XVfVxO0W/pn6pLh2VhvlZY4RsRddVcqZNxD6BudWGOjg6JttsfdE1nIZqVzm13QsPMUDHid2w4ExUUWouE9qQZHyOh+al+VxdXSRno/XjaSv+jh24N9i3eoXC4lyPWrU7rWHjtreoZWTNqkAoqIDU+Up1L9sbs/M1rzOx+4CplLP/3xldR+oNJyHAXKw4kHHkO2r",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
