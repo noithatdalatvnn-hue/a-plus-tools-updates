@@ -6,7 +6,7 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-10-30T01:54:09Z",
+    "generated_at": "2026-10-30T01:58:14Z",
     "entry_count": 240,
     "active_record_count": 134,
     "tombstone_count": 118,
@@ -678,14 +678,14 @@
       },
       "5272ABE0FAE7A5F8426F2A4D98BEF3CEAF459B4F0DEF597F978C8495C37E04C4": {
         "product_id": "APLUS_MCOLOR",
-        "status": "issued",
+        "status": "suspended",
         "license_id_hash": "99D1AB696A978923FF7607317A8ACC1E31E69850519D4C823A0F48DC7E03C15E",
         "updated_at": "2026-10-29T14:20:53.144Z",
         "source": "manager_license"
       },
       "3179387ED4ACEB5DC410295C90FC107B4713D47D46B5B7E4504B76A70A3F2F57": {
         "product_id": "APLUS_MCOLOR",
-        "status": "issued",
+        "status": "suspended",
         "license_id_hash": "002948ABB77A50C92F115DCA8F425A1085D7D2EFED0ED546E8721B236A062125",
         "updated_at": "2026-10-29T14:20:53.144Z",
         "source": "manager_license"
@@ -1693,7 +1693,7 @@
       }
     }
   },
-  "payload_sha256": "e64c569861620d180fb7aa2c19904f4ce1f6d4763410132464d26b7759c62e97",
-  "signature": "RIkO1wMBRNsJb90p41vJfMXCloA4H4Akq1STi9RTDXvw0TU0bVH0QtPiCdgyb5YgJFgaNlmmsrjOIpZ94jqgalMxm6lhEiJ9sRFweOsvrZHS//7Z7+Gd1r0S5m1tFIzMhnz21mkcVHBmUSzeZFMJh27hBlFoeKKN5y5qcgwFPVsf3IH8/VwDt7CxZsBlf8g8Sv7PR2qEtF+jvJprW06fhmCtD3lYek2t3tgzhztOSe+W11DbEGq+x+vvMzHxlunQZ0fP7nep4t6XeV72vruG2gVvI2nYU2ElRtzPYZfgInB6X82luNVHRWAsgWMfJNh97MmAAEzFZw/xpsd6XcgMebnCkI2OB3UvvBz2sN++E9Vnn/tnpE7y8U9fPHkDgbyUv1cCgDIQAz1ryESKUUbRRmmDZ4ouzz0u7CuOOvoyfBfYYGkZBuWyiIOLnwS85aAZOo6O3MRriAnrasrMhqg6HB6AOlxpEvvS4zitNj3gxKCnUFSxkDwUMsbXtp5IEdfh",
+  "payload_sha256": "c12ce707f6c50383c461d05b7a34548fb030ee62493d5405530bfbfae22cab75",
+  "signature": "y1oEO9ISBOugVsBvU1bXiauVpsMMcDdW4LBzKZmecCkbv+5j0v5wcGQWr6kusmosOOj1jpUdCCbDKH2foDl764BOa8uZ/pxcA4g2HQ3AsWJ8Oc0JoW3P5nUKnQu4P4k8q9KALqDXkawfpl9lHKIMhzKedAsNs6lNljtNZgjyjPkX+rf2QI1Ud/gpWHzDCWCdJWJwymMzZtdD9uNA4Ll/iUwVv7uezqDTjlNkli3CGBwp/HKnKJaRr+NJrDYaiOyneX8FIUshMc9sMOdkVpCt/zSTCihnHfjk4QsTdZPveWbNyvYJr6a0tfonGd5rS2j9P8s1G+QVxV8xQextcFx3v1euRiFTlP43YKk/HxkE5id8i+neEOjXikvVQ1IwvjHSEVPv4e305F1XEm8EzENZ9ojv4XIZ9+hP/yYhoNd3+6eYXtB6C98b74Ue0fvNhk0FcNLt24Dw5yY0sEgWabdP9tLyf/83+wLRyM/odmzbdg9Kl2BZ+Ji+Ur906R8lzCpA",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
