@@ -6,7 +6,7 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-10-30T01:58:14Z",
+    "generated_at": "2026-10-30T02:40:25Z",
     "entry_count": 240,
     "active_record_count": 134,
     "tombstone_count": 118,
@@ -680,14 +680,14 @@
         "product_id": "APLUS_MCOLOR",
         "status": "suspended",
         "license_id_hash": "99D1AB696A978923FF7607317A8ACC1E31E69850519D4C823A0F48DC7E03C15E",
-        "updated_at": "2026-10-29T14:20:53.144Z",
+        "updated_at": "2026-10-30T01:58:12.760Z",
         "source": "manager_license"
       },
       "3179387ED4ACEB5DC410295C90FC107B4713D47D46B5B7E4504B76A70A3F2F57": {
         "product_id": "APLUS_MCOLOR",
         "status": "suspended",
         "license_id_hash": "002948ABB77A50C92F115DCA8F425A1085D7D2EFED0ED546E8721B236A062125",
-        "updated_at": "2026-10-29T14:20:53.144Z",
+        "updated_at": "2026-10-30T01:58:12.760Z",
         "source": "manager_license"
       },
       "C9E5E45DA097F1F4DF95B8450350C7592D1E3379BB9385500EC537413DFAD4A7": {
@@ -706,7 +706,7 @@
       },
       "7FB0A02976C24BD2B72C6486F037AC10884D21D7298B7D518CC1B65B2ECFC6A4": {
         "product_id": "APLUS_OPTION",
-        "status": "issued",
+        "status": "suspended",
         "license_id_hash": "4860DDCA196DFFF9EA7BE534B97A4A793F9326A9B1E13F189F577908E6B16DD4",
         "updated_at": "2026-10-29T14:20:53.144Z",
         "source": "manager_license"
@@ -902,7 +902,7 @@
       },
       "0AECD71451B2227D24ED149BB9367ABBD43A476A08D968BFE435139739F2C444": {
         "product_id": "APLUS_A_FIND",
-        "status": "issued",
+        "status": "suspended",
         "license_id_hash": "6A11BC907983E470D53A77F9FC9A16E18E6C07C11D766866213DCAEAA24A2EC6",
         "updated_at": "2026-10-29T14:20:53.144Z",
         "source": "manager_license"
@@ -944,7 +944,7 @@
       },
       "8C4AD26E68ECDED990B116003F332333130416CB25CC325C440967FB15F49809": {
         "product_id": "APLUS_RSCALE",
-        "status": "issued",
+        "status": "suspended",
         "license_id_hash": "499B5236761468978B9D04828EF42D6505A9EAABAD0D6E1E7B29CE58EF1147BC",
         "updated_at": "2026-10-29T14:20:53.144Z",
         "source": "manager_license"
@@ -1693,7 +1693,7 @@
       }
     }
   },
-  "payload_sha256": "c12ce707f6c50383c461d05b7a34548fb030ee62493d5405530bfbfae22cab75",
-  "signature": "y1oEO9ISBOugVsBvU1bXiauVpsMMcDdW4LBzKZmecCkbv+5j0v5wcGQWr6kusmosOOj1jpUdCCbDKH2foDl764BOa8uZ/pxcA4g2HQ3AsWJ8Oc0JoW3P5nUKnQu4P4k8q9KALqDXkawfpl9lHKIMhzKedAsNs6lNljtNZgjyjPkX+rf2QI1Ud/gpWHzDCWCdJWJwymMzZtdD9uNA4Ll/iUwVv7uezqDTjlNkli3CGBwp/HKnKJaRr+NJrDYaiOyneX8FIUshMc9sMOdkVpCt/zSTCihnHfjk4QsTdZPveWbNyvYJr6a0tfonGd5rS2j9P8s1G+QVxV8xQextcFx3v1euRiFTlP43YKk/HxkE5id8i+neEOjXikvVQ1IwvjHSEVPv4e305F1XEm8EzENZ9ojv4XIZ9+hP/yYhoNd3+6eYXtB6C98b74Ue0fvNhk0FcNLt24Dw5yY0sEgWabdP9tLyf/83+wLRyM/odmzbdg9Kl2BZ+Ji+Ur906R8lzCpA",
+  "payload_sha256": "1517bbfc3aa9aa70eccec1fd355beefd648136e489ecdf6970756c02f7bec576",
+  "signature": "SYzipLHwIGcfRFMGIpE2Bi3V/W1Ug3n9IBGSwbetmeLEezG/LUQ3UXDuPdCELkVOgqZvjOgEJ2A5zb3U8jRahE2MUBGiIc/vRxZxmcrFp4Mk5/492PVYGiL32ZAGrL92rTGNsKHp8xILiDtSzSnbni0qxhokABT5KkvE1M1nOUnjW2i9gRuYatGCBKNH5ND1B0a40kZfGnnDys/jCJlJCbihJi/1rB7Xpsy1Kxhg1XHDez3/SaJmy31MK8JDYygMsFLCztKggFn80g/xYfFitKl3KEmDjJkbPaRWd6cAP7+q7o1Wpg2rH8m0sajfqkyOR1IQEP//4oNLde3tVQkzLkjwuWj5JJGdD1+EvmPj4Q4dfLhze/jHdSzZzSbA3Dvd/r9R9cGQFeBvSLfHPOkegqYZZ58aJP1Vpi7iHkS8zuiRhMHhGjJj4GPnvu/h7JHprMu3lUqMOqMZGz9koCO/c8wxmmkwiOMQEnCOolXdI7W0kuFIovHphWDlCkacu1tm",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
