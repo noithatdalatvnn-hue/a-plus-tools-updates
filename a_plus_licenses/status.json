@@ -6,7 +6,7 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-10-30T06:55:40Z",
+    "generated_at": "2026-10-30T07:30:05Z",
     "entry_count": 242,
     "active_record_count": 136,
     "tombstone_count": 118,
@@ -897,7 +897,7 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "32807F3AB219DFEDC2E6CC129CD2DD577A3281F481857FD6995B3DE25C2A836D",
-        "updated_at": "2026-10-30T06:54:05Z",
+        "updated_at": "2026-10-30T07:28:16Z",
         "source": "manager_license"
       },
       "3C20165480E6A1608993E2E39E1617007FADA0215725947A64549C0EE0C7D009": {
@@ -1707,7 +1707,7 @@
       }
     }
   },
-  "payload_sha256": "cf2e231934291585b26048d133e803795d01ca2560d93f5fa9237a1c5684f90a",
-  "signature": "gLDzgY/Y6xTFsJZvAiRpff1+leh65OHXpRp40cxz1zvvJP0xe7RCF6jqG9nUGamIuq6LVEc0I2JNr4Nwu+L9lDE/T+LTOdWd2YAg0TgGp9xQqgoBWpIjs4gWokPVOCuaZ+k5P5HkUsykTs+adLCBLWY92BLEgAu2GI2/aKMQWUDntctSpED+h09I+2msRJV+P/J5L/igApmjwN9Xd/mF5H7KPCfzzp1XWaCpNpFeF6uFYvWDp7yfkwrONSMlLOOFBKtdJxrGUEuX4zLtm818Rc6Cmss5PGReNLV6U3caeMp4gpiUWSSGSmNIPyQSalaWstz14vi5XOiMp+Ug7sNNtTeWjseQEO/IWCV5+jAp2OvxsRlGQgVa16+uxmqzIHvoV89LE92sMOjebRp2bQaZoUtth82XnP8EtNXkmDEFi5rQl+WmfwdHwNLVI4CzcIK7BrhUO5Qf/KN5Pp5db/wT/+wtm5BKGdIbNJQs3S9KUZm4ay7u8ZrkaYM4K2ugaV5z",
+  "payload_sha256": "738e68d4a4b4f2abf8dde2054fa873b741ec3dd9a7c08986764509edddbe5e05",
+  "signature": "xlKiGyLbm4enZYhV8J2yEVZQustXGh5lFAszaeElB8TB5E7H98JgYEXqzbp2p/jYg4+3m4gs//M7ToeV8B/MlM/fj46GK891stayKJbYjO62ALg+F6nvAHtVSVYpeAesB0EDnqT5lR4qNv8FBEiJRcjAsqA1TKpK8Nb/afkRVhqSMw2QUIfqGbGeBxyeA9D+/3ufF1pR2YaYrmBJEucbtwTQs3mDdKgE9IzXZJSk6JMZgQ2oDrwzjVLmRQNEBMTHP1gT93gwAbZ44Ukkho0fBVRWT5RR+yhRXPOrPdlwowmOcq/6I1RDFBbrYwl1l/O0imwT0yhQzqO5AEcfgjQ9uoMuj9/CucuATiTiCQ83r+EbykumtgdqlebMVPco6kgmOO4iRdh+ylR/RmgBUCb7AZed2A/ZdamXOjNALbGhJBty8aUV772756gDnTb4xCbJTm+VVZA4V+eGecYPNj4H1b4xuEwvYKwful8k3Ha2Qms7ng3b+w13VqggtaGjblKY",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
