@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_solution-v0.0.9",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_solution-v0.0.9",
     "release_notes": "Plugin Tinh Gọn Quy Trình Sản Xuất CnC.",
-    "published_at": "2026-10-31T15:28:34Z",
+    "published_at": "2026-10-31T15:29:11Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_solution"
   },
-  "payload_sha256": "2c87f7d0e5a7ddf8146e3630e5cdf79edd70dfb2c57719eea77f594bd5679408",
-  "signature": "n5rjd2KEvI3JwTGnJn17TPi1YofHqXp1IT2r7INph5ug14E3Cs7adQ41Hk++Q488UFfmMFL0qd5SR9MlpaelitTNgYWfUfzDSi7Voq8q5TCumF20U/tFO38Lxwi9/UiODQC3bQhc9/lH/8ZvZlOpuwnfHRuRNkspKghdzVH/KRN2LbptLwBzmHrPlcTo08qOJWStWJF2GQoEIpi1gdj16GwEwokZktV5aF6KJLXdVbUYtI3jkCrijf+ecM1CslJGQDC0rVTnSKLTlF3B4PdWWMv/atnU+EwXQKnSR98en/CGRme1nLqVRrQM78mxmj/buwukH4XdhktKiSPhuoxTgtCECX+U33mtDmoqx/es0FDPlmCpLoPaXkhD1G/+iMcNq5eO0CjKVbt7V1KHAx2RPXZFeoagC7fPWQ1/PKNw/otWEjHgc5Ohofr8otOfI5F3GUgiB10B+lQL1+QJ3idISU/I81wFsvAOvHgagiSavgLKmWKzMxC5Gvh9mgLmToQY",
+  "payload_sha256": "71d8bc0c82af21006c4f1a15c8d27709ac0688d7a67b5c8895cabdff8b2cc31d",
+  "signature": "C7aoLXljyziS1f7MokR0UWfJvlQpo/i8bPeWsAJN1k1JX3Y2wfm/WvFq2u/UOBO1K/UJadErO1W3ZTaqwsiI57j5tgwXBxnVmd0q7qiFWlkN3lQWQ+ixmo6ao0FcWRymBIYD9vT4jL+384VdlwIsZeesNxu4VesV7r5o4QDkEjrl+naDYdPwJPojtZPuoHy7KV1ft7H1d7nTclAm69+yfBSl/YHsLka9btrQyzLAoAXcUrBW9ev7unOJsB/+ZfyQV96TQfKOkriMvgdNOM7JrSC6s0m1yJlswTSO5+xrtpVW5kmsDKHa9TstB+N6JvSgLdJx6UExVlx4cjYrKxwnxYr+8j9Be3FRAFDtnIYLvle7dRynKfP32f8TlU4SjIIPmN2kql+epCRdyP04vAblRdMIrgNjd8gOBRxquxLjEpx/j6fic41be07TxbNR/xtNU5iwqZ62b7iRg9q3tJcrTrQFWfpZJZtBlfwB5HpEopq6DjtwL3J9WraZ0kj+Go7i",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
