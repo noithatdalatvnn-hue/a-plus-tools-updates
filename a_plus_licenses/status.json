@@ -6,16 +6,23 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-10-31T02:45:46Z",
-    "entry_count": 243,
-    "active_record_count": 137,
+    "generated_at": "2026-10-31T02:46:17Z",
+    "entry_count": 244,
+    "active_record_count": 138,
     "tombstone_count": 118,
     "entries": {
+      "6A49A372E47DA6C48780814567062DC8AC103EF733A426748F3F8422EA591CD6": {
+        "product_id": "APLUS_A_FIND",
+        "status": "issued",
+        "license_id_hash": "FFBBF18C5E7C40FB03767DF204A51762293B48838ECB32EBC080B97853954AAA",
+        "updated_at": "2026-10-31T09:46:15+07:00",
+        "source": "manager_license"
+      },
       "7E9789D1001C0ACF0F9366ADAD8F31FC433239C14E49939FF65B7825DCD3D3A5": {
         "product_id": "APLUS_MCOLOR",
         "status": "issued",
         "license_id_hash": "A7D5CDD19E86F0637FAF7819AD8DC869FD3A433C888D3C28E7BBC804CB6C2529",
-        "updated_at": "2026-10-31T09:45:43+07:00",
+        "updated_at": "2026-10-31T02:45:55Z",
         "source": "manager_license"
       },
       "6EB6E5FCA6C7E23395DDDFB71C31BA4EC88E7C2232BA063F8DFA97F405125ADB": {
@@ -904,7 +911,7 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "32807F3AB219DFEDC2E6CC129CD2DD577A3281F481857FD6995B3DE25C2A836D",
-        "updated_at": "2026-10-31T02:45:13Z",
+        "updated_at": "2026-10-31T02:45:57Z",
         "source": "manager_license"
       },
       "3C20165480E6A1608993E2E39E1617007FADA0215725947A64549C0EE0C7D009": {
@@ -1714,7 +1721,7 @@
       }
     }
   },
-  "payload_sha256": "1e26854d1268daa4b7d740ea9773b1e95f0841924bd7b85391b64117cb6b8128",
-  "signature": "jbvQnh2kC2vkFamkmLl0V61dpRuJIuA+94t87yaHRV4POW3Rz3dvosx+qyWKZGj2CR/cPA+e2xU1RdYmKXN26qZjnEf4UPjf6Lp8ebTzmWIYPNqc70LNQoJx849URdbouh/yDGP3cccW63BkCZLCVxMu44lxt4JB9/LT//rxmoXNa9uuq8MLxmoVUaNBTp2D7Vtpplm+I7vjAZJ2cK0NWYzBDQstODJrH8eWNEG7imGXZEIcroKZAmMGfxaei8UB18nTpdmvMesN7JzuqNoIY4s2G2+s3AYBCKVI8bh51ndcwVQpFWecm6P0JiehYUXkmYbpiBSFumqg/E+wlqcLM2m3UahwYUbiCgaEvwWBF4jkF0yy2ATFjnq05g0ndM1DF80TvJOxqLjw3ewAuXW6wVjgLgg2XYK82HiKMz9/fkBOCSPG9m2jPVt7BX9NxYOdv/UhEtMBj9K8zIQw3csol/wWaCjqY4oPLG64GmrrZXMTZZeZg2kkholrVT8JdGUo",
+  "payload_sha256": "120e242ab6d573ed008ff384f05a2fe862cfb0bc799e421d3f7ea78693134b3a",
+  "signature": "n6oN6jdookilWG3mjuZZN0jZOXxspTNi97LNf/PnrwicxKmBi+u/tyWOtTv8YX0hVk29NrMWcscSweYAhR/hHPSgjE/qzHpQhN/RK3d2SyrYho09nCUsygi0/Y2oGocIy3qZRU3cYc8LP9NrltvMdiF+ddZsCw3nnJGWera0lDtE6o3TdJPsVa+lEJnJdDQrhZBkQ19FKbep3N+5uYyKN5wdTr55wsAv/90E0/mRPJiCwtXhw2n7MzOuErU6THqasGkBOcEBmqPaLD03IFLPTffrs+t9hvMkOAf47aok0Zr6BFXyyQHIF83cAj2ZkXDRfn/BqT8fFabdb4gsHKbKresR0fPPnSnNPnBl2jM2pQh0yB2ItveIeVPHGtTN6YGaVlWRD569yOntXoz69vz+Xa9UeVhpjYU9RcGMqimpfc6/qzkQVzIgZyeQKbYZDKCMtEZgUoxVTT6ZbGZbdfIO0KXdTpbwiXbXOwKkf3wjmkzkbJGyBWRzxIfXWzcro8S7",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
