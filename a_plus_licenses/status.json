@@ -6,7 +6,7 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-11-11T03:43:07Z",
+    "generated_at": "2026-11-11T03:43:34Z",
     "entry_count": 314,
     "active_record_count": 208,
     "tombstone_count": 118,
@@ -1401,7 +1401,7 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "32807F3AB219DFEDC2E6CC129CD2DD577A3281F481857FD6995B3DE25C2A836D",
-        "updated_at": "2026-11-11T03:39:05Z",
+        "updated_at": "2026-11-11T03:43:27Z",
         "source": "manager_license"
       },
       "3C20165480E6A1608993E2E39E1617007FADA0215725947A64549C0EE0C7D009": {
@@ -2211,7 +2211,7 @@
       }
     }
   },
-  "payload_sha256": "53ada320c840ee4e2612ea633cdb4781e1a00b47274eff4e0b80fc31c1e3543d",
-  "signature": "joylhhSJFcZaSDKgdXArUsk2JjAvSIH9CymkIaOqqkV7o+jO96bEr3LvyfYAudNYEFTvpmrHzizXJ16ndNXox3vk+IpjtTBIdBnHR/lrFKBnMHwByPY6c4Jyk3c/2noWqAjyZ7DOyTCfiqIsmFJIy6nec1p4p0w7d00ppjUtIQ1oGcodHb5WAXiHa6ixjQJ4vbQ6tn9HsKpYfW/6acxztuJDb75LB4DsqgpEEyMFI7YRyoUbe33BNzUO115sxR7XhnoRr54I3Zg/UFJfmAHla0/K/X69Ol6MaMkc5C6a59uRGAe/jwBoTo1MAdF7FZWqnCaLvLBTZz23vi/rnjhvCMI/MI8PVlNoNhGI/w1zJyr9IfcsSk+ikPNOBPX2o1UaHeASt55NOxalGaf0Lp4MCtnQ1ReXbZKorCE/gC9RKsUrA9FpdJ724Ma089Jm7Ji9fi46s5XxuqkQInjb3qFApIYkCeRN0hMsQQS8+IqnYnnseFUYAj6Ft/5aq0If4+Xj",
+  "payload_sha256": "1f9ce56294813d5a40904f68363ccc2e172a2ce5fc6830b5b7d3bc984600b811",
+  "signature": "jbvnUppUI/5SmOPiwoKSz+p9SmvhC/x9z1RCFvMd1Y1kn7o9KS6Q1k8lxkZbqiiZHQqYUkWf9F/VPresl59JLRn/H5UEWFUnqtBvuEbNqenlznW0kXtF8dfqmeCaq8PcsNnRtiIxMs+fEnLlQcGXuMadEAZzi6pfe9otwEZZKQL1Wj7swmKRaMbBmqzoCxCoVlhhSNhM0xanFBfLALKlyQ7Br4jTZwpxy75zwYQdEu9OaH/WSuqhvf3j7m3XWr3M3cWpbnaDQ7pJuLMtHcnxIpy0P79GNWBE+iy62TvZ3fVvZPuNW7abi74FfRZXsJ9NdbNjVoUbhE1TSkwmVIhUr1h5FcfgGMkXqLqmk1FyrwSZ85SfnwpE9cOzlyHjOKjmo/fg1O12oeWC/e45Z2Cl/RvhPHZlqG5HYdI0WfyaH42+HLoaL6VgEUwjQV91ExEaU4iLP15rFl+j/IEK5llnLHszcMgSansW3Ka5QKW0BG3ITL9NhB8fPDk1/tOEd8C/",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
