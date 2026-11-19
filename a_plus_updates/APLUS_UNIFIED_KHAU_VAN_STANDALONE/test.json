@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_khau_van_standalone-v0.1.4",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_khau_van_standalone-v0.1.4",
     "release_notes": "Giao khấu ván.",
-    "published_at": "2026-11-17T05:13:15Z",
+    "published_at": "2026-11-19T07:40:21Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_khau_van_standalone"
   },
-  "payload_sha256": "cc33791bac2fdfe123e975ba59c8395620fd85df24fe1795cc2e4100eed957fe",
-  "signature": "dvRtWcolpKTHy6e/e2JeFM+KoWfQ9lu5SoEXsb1eMyCfaDsztpquU6WlH7J8/c21Mk+eMioz2blQzgQ/0UBTwoTFFsWtSOSmos7ES+u3YAGrsbMMaE0JpvGs9rI5InOUfxZWLVXPjthT1thpCGAxO7d2i+IWh9e7BRsP9t3GJwkTlkL5XIYW1vF35r+uszUSHrD/wAEetIlgCfjL1IVTl7lUUpccpS/Lv8YOGK/WqlKYeNaadgHxH8f9uf2StQ+yREzD4Ifi9ZvAYrFZx/u5b/QjYX2lCbEBxfag6xK1onbyUyMFj2P6EzRAQ/CF5PjDpwzmi+vm+oLZFlypifCwil2Rf0WOlEZMrCNsSMCk6fleisKK+pWao/iViPPwI+Jg7gFsw9cvfCbs078P856jVOwEKlUOGgSWNy5seZV/QiPno4WEtsFdFxcfPJUHOoWtEOGE0iL97VFZXp/Sdqg3xoiI9CfJTpp8n2j3oicmSnz2zJIQ2LSfeTSCCfFfBJ7f",
+  "payload_sha256": "2b91b79bcf2b80bc8345bb904cfad675a22fac72eee1af6240b7f1a00848b292",
+  "signature": "rWWMDvKaRsr56HznTqktlFvnz3l5l/XgcmG4tSWIlb+4uzBsBK/9WmoS9ZHtSamCCkckMCnYFKZ1yrkGs2+1NQSEj2m5HTrlcNocVoblMzaZqWNnhEuaAJrVWaBbDsfipyU2sOdycnC1cvqUvk70GVKl1Ft1VNZukObFq+MpeWPDFk2ovpfM/TrQjZHAx1CaMcxd+HKJ6XpmI+GgGHbbaniAQI9z7IJJOIDJzOvGUVQ8zjvC0Ij8PJokoBXBOZjMw1bFT6x3MN+HQ6FZwZrSjO46B+OpYa5LxKkGygVhRHzkorJ/fnm0yQUzV2w0keIPpZRCG5tLrTaKbaiZLFWsZ7upKc0icjo9hs0dFaZMYaUF6GibSeFaBGH41vehBhl51b3fOxA4Jx+0ERF4shnCiXOSvp26S0peoLej0qGxx0y2n9501P8+Rn0CtLUq4+ABDtamt3bPGrT3vZ9KiT6CTP8vLCoC+SLXyVgElyBAjfGMTzH1r6N4/VJuZag45wNk",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
