@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_tao_canh-v0.1.8",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_tao_canh-v0.1.8",
     "release_notes": "Tạo cánh nhanh.",
-    "published_at": "2026-11-17T12:37:52Z",
+    "published_at": "2026-11-19T07:43:03Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_tao_canh_standalone"
   },
-  "payload_sha256": "9e170e73749ef241cec7aa4eff049204b643af1b2f883d77835e9c8c4e645f36",
-  "signature": "qgVSY3zvLf7ixnt10DrLFgx0MTJj224XOebAo9dBKdOOBlnNZfcScGn7FX1PtZexD2w8doNM3/TMJnCcVqk2b0uZiqTEZe65hZJeFB046X38DFlDhsDpiM5UyLyew449LDA+uaI+Q5UPZ7CpgxS4z8vb7Ob84EZhLepdi9OEcV3yhnZxnaCXgsPC8IjCwn/aZ2kraaSWmLCRbqPsZTNQ5Xi1lZp9GslH7tbAVU+ykK7Z0/JYECudUgqSaONK4swzMrdibGGYfeGwixGVgQtYKXCrldXc4Iffv2vwkAgu4f88AYD7YWUzkmGPtj29IztR1W5PIC6zvH9zKfVUXmQBqsmLNyCadnh+QL5X1yM+dL5vOUApoS7aeBNyaBqR7xN+gsm5twcTQTW6ZdNzPBWEPg7IYL/Zh2HNSwczI9nkvXcovYzDLxKhHPfyThHIyOqNdK3zqb2tADlgZzomSNAqve86xOZt5MaB5PrcDhe6sXABaHu+x8m8Vsa4u7MkndZb",
+  "payload_sha256": "2714ba2d9e686dabeed01f1da51479f0c044dfbcd7ed5cc808eb08e35456e66b",
+  "signature": "vaTn+Fianj9AH7opLnIWKJ7jtKlvkG+ql3tk8De7LVTCPTLhAxs25Kqv+jlYQ4wBPVXTzEFhxMIjQuHftiC6A/h0xMp4ADxP48wCXVe0uOBE0cMCmRzTAiiYkSKEIjp1F5U2wFE8V+YvxXOLGZLZAqJMhD4pTxf9jYsNddn9AvLhH9j/MHqavns9bywUnS58ywUrda1AducLPASQHDrXf3e6mCFo63djCrjRv7VgCgO0KELwmXSqu6oUSnTW7ApvoEtBIjoHLPGlu9UzptuKQd/7HXpV+4QnkGfyIiPbDT3WZxlw0mQJuWPKrN6M+9qeiTpR4O8SGlnm3Et8tBxttIeZx7/1w1OqDCYHHDYqI9PD3JxAwk/WUlCwydM6ewwenY6rBmoboDnSjn6kUk2bXrm1TwdS398E86KA6B/K0wlctcEZU3zIHEciJc9S7LqJNhvs3Os1cly5/F3Po58A5BHR6Gv9GGPN4JbhspL0eW2YcD2DavKrt2oPzTljpVPp",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
