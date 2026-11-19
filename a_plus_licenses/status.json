@@ -6,191 +6,555 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-11-19T07:43:38Z",
-    "entry_count": 464,
-    "active_record_count": 358,
+    "generated_at": "2026-11-19T07:56:18Z",
+    "entry_count": 516,
+    "active_record_count": 410,
     "tombstone_count": 118,
     "entries": {
-      "924D224C61E87A2273A1777D1362193060E963B7D86FEA42B353B95682E4306D": {
+      "9684DB48907DBE51F330F6B0A5B0BB291F0C546FF3526BB66315A5339BA17C87": {
         "product_id": "APLUS_UNIFIED_TROWEL",
         "status": "issued",
+        "license_id_hash": "AD7CC69639B4909C5D17CDE3DA5862EC29A3AC83E82823FF71C7AD538B8486DC",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "2862A17663D3B3A5F18879C0DD6B0445BED2E35C68BB955374369B238359019B": {
+        "product_id": "APLUS_UNIFIED_STRETCH_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "FE6948AE9835B16D73B696D9AE57B27C3B416ACF62EA49B4FD49D614EC0BC00B",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "AF1247F7EE94FF2AC3AB3B57076BB1CB78C7C722E01AD9BC273758B2BA291AEC": {
+        "product_id": "APLUS_UNIFIED_LIEN_KET_NGANG",
+        "status": "issued",
+        "license_id_hash": "EEC14BE04519679D73BFFD372061CE8FCB05BB63EC95E892F06B0C7BFCC72327",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "767657A23F1EFB0EC8C49B23F02F241F74696159C692947EEDEE6AB7B58AA360": {
+        "product_id": "APLUS_UNIFIED_LIBRARY",
+        "status": "issued",
+        "license_id_hash": "A460AC887495B84B63A36C8040C9E19828E999FB952F8632FA7351B08C8CA34B",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "4EAD9AD589B92322FCCF566A5DD548E564707247D2F4D750566F314D76198B0C": {
+        "product_id": "APLUS_UNIFIED_DO_DAY_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "51FD26A9D48E00D638444455D62EA955CC3D764734910EAE516F7F9BED3C716D",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "9F46677D72B55099DA20003F4231A4E7D80E4278542BD4F4A59DE5E67175D260": {
+        "product_id": "APLUS_UNIFIED_DC_PRESET",
+        "status": "issued",
+        "license_id_hash": "6D8B4BBC69D36CEFD92202A71ED7B635DE11EBCB2B38B92B693E00B73B586F19",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "25958CEBD789149AEF21A303E07291F091748B20885F6963123679F15DB6111D": {
+        "product_id": "APLUS_UNIFIED_COMBINE",
+        "status": "issued",
+        "license_id_hash": "982B9E184EE9BEF85FEA6134D5A3B6F1B9D5C29D1BBFA307CE36386F940CE588",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "092F6F9053F1FAC10696AD5D5F4EBC0A159118DC7DCEE11AEC1CEDEE7B64C29A": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "issued",
+        "license_id_hash": "664E456BADA26C5BEAE0A9C91BFDA29F8335E3A5E714B1C518F70F05F4492CF1",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "D0AE8285CC29B9CA9AFDCD05E883C93D552F777AB3C65705212FCD85D1473F0C": {
+        "product_id": "APLUS_UNIFIED_DUC_KHUNG_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "0C304EC4D9C660AB5A59F4E31809E121D7B8F89E238657D1B65C4B3471E51EA6",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "47685A5C1C453184561E40C63A4643CEAC792F55730FC96263764E5A480D1DED": {
+        "product_id": "APLUS_UNIFIED_KHAU_AM_DUONG_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "4E50B606182AFEAFFC9D1575239D079910480D7A7BB5CEFB44FBB0386FA67713",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "81D3BBCAA3127CE7D92E9ECEDDB12F7803F378F6A12AA49987E05B7CF2735C78": {
+        "product_id": "APLUS_UNIFIED_KHAU_VAN_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "833B1117FC5BEFECC49F7DAA33479F5833A32C5D8A48876F817E7C2E0914C55F",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "4CB3D4682670C5387619A62FF767FC000070FEFE33EA05DA982E3A20718C3256": {
+        "product_id": "APLUS_UNIFIED_KHU_DAO_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "CB11AF3D16D2D781BAB594E030B4A8E8F876F2ED45BD84E89620865AD09997CD",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "5DE03E043289225EDCD2D5A66B1CC719A0FBF5145861FC3CEB84DA1379B69660": {
+        "product_id": "APLUS_UNIFIED_NGAN_KEO_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "53FB5B7425B8B464373659D9D2499883F2BDB6F0227AFFA37486C0FEA2D1F09C",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "53FE890E2B52278C05811C325DED740BDC3A5D8D91F335A7B93E994EA6CCB3D0": {
+        "product_id": "APLUS_UNIFIED_NOI_VAN_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "53270F6AF397993BD20C11016B3847BC3D25F1E53B2CEE8A0404D3E3E11BE0CD",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "D2F28916B8FE2605F740FACEBD9074E3026166B37FECA14287A13E4375BC4B0D": {
+        "product_id": "APLUS_UNIFIED_PHUC_HOI_TAM_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "91B751A1F90CC7FF07579FEAE7B6960B94830757C7E6005A80131692365A36CE",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "FD0DF922F55C26A4F8C242F9556364C05A24A673635B5376E9B0FC0F62730F3F": {
+        "product_id": "APLUS_UNIFIED_TAO_CANH",
+        "status": "issued",
+        "license_id_hash": "E4E68E2169E2B812121B13D93135B03DF72F3D63691AF5B11826AF0BC15EA70D",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "33EDBE40E7F0345893BECC0E100C3E74199E3911CA57697E8BF56C91E35297A4": {
+        "product_id": "APLUS_UNIFIED_UON_CONG_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "99655FD467E4CA0FE66673C432F7962ACE3258274F0C516AB90486582ED78B85",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "E42C8DF4BE2D231EDF459FD83F8C283C503DCCEE0C76BE4160EE41B86C5147A6": {
+        "product_id": "APLUS_UNIFIED_BO_GOC_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "B954875128A1322D41B0F810460190EBFAFAC5280A6E1E6A208269814B49D777",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "2FE1B111FD70042C34F53F162D817114866FF16D3B23B66AC9AD05B81518D44A": {
+        "product_id": "APLUS_UNIFIED_BAO_RANH_STANDALONE",
+        "status": "issued",
+        "license_id_hash": "1C5238F352CBEA5AC7870C957C093D1356C429BAE74A0C699CB0D6A0B63D2D36",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "1B8ADB4D501418ED20F235641CB24BD1F63166850D3BD3A18D10D882CBA46F2A": {
+        "product_id": "APLUS_UNIFIED_TIET_DIEN",
+        "status": "issued",
+        "license_id_hash": "107D72F15EE9AFC005A7797883396E73A006D438FD19DB55079A5DB7ABEC8D1C",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "C6DB83B753465D07D2039A4985C9B87B5CD6BD212B25C1754C9E2ABE99330E2D": {
+        "product_id": "APLUS_UNIFIED_BAN_LE",
+        "status": "issued",
+        "license_id_hash": "044DE17FD2C21DAB4D02DE8D8F0A28153108EA096147CCC026CBB33B4C975C41",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "ED40531D15FAC516D351BD1A4D0C943689D7D0B22E294670D8D65C4B831C6AF4": {
+        "product_id": "APLUS_UNIFIED_TAO_TAM",
+        "status": "issued",
+        "license_id_hash": "1532120DE54E09EAFDFCF42CC3F97584EF852553BB17B1545069A860CA45ED60",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "ACF1D32A6C854C6E1828E41F4C7F1562A0FF9EAF54B67421132989580A816B8F": {
+        "product_id": "APLUS_UNIFIED_SOLUTION",
+        "status": "issued",
+        "license_id_hash": "18532C7BC13F9A5B6FB342994D4EE9430549A70EC12B7FD1D2DABC41579B7761",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "C777999BEE5C3334B0A00EB702C221676618E3C1BB85CBA417627DFC9D99CFC8": {
+        "product_id": "APLUS_RSCALE",
+        "status": "issued",
+        "license_id_hash": "01AF42CD34AD4E20F21BE5F5AE3CDEF77D03DB76337D0F5FD07AF0EBB72A5F44",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "FD3891B42CF6FE8FD4EBC2134A5A8C8A614C4024FB9E5C40A05ADB60B4775EFF": {
+        "product_id": "APLUS_OPTION",
+        "status": "issued",
+        "license_id_hash": "4C7043214172C081A6A40E55749DF83C6FD25448A411B908A323485999377BE6",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "12991CFE1DF00E57FC10610AC165A4CFAF4EAC1162E6745C1C7DE95F980809DF": {
+        "product_id": "APLUS_A_FIND",
+        "status": "issued",
+        "license_id_hash": "1920230DF11103ACA919ABFD4E5EC2963AD8B0B9BB43F1C6B0872BB1A8ACB615",
+        "updated_at": "2026-11-19T07:50:59.625Z",
+        "source": "manager_license"
+      },
+      "D10541D8360F50370C36DAF4890049C2DA276406BBB4B2B5D5C11985BD0BDD00": {
+        "product_id": "APLUS_UNIFIED_TROWEL",
+        "status": "released",
+        "license_id_hash": "4343588AA007E6F43B0828D6DFD7B705C4BD43EC1F1E87B881133A6B69CFAC06",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "C1D3339A40CA66949C83DCE416FECC8F186D7315B799E784B199ED936FD9ED56": {
+        "product_id": "APLUS_UNIFIED_STRETCH_STANDALONE",
+        "status": "released",
+        "license_id_hash": "7D7550100335FEE7B8116A537732E3A454FBEEDCCF2944D80676F04B702CC6BD",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "8ECE21041C1C50E36C3E5AA7745CD82B069F5332E92D35681C6790A6DB0CA705": {
+        "product_id": "APLUS_UNIFIED_LIEN_KET_NGANG",
+        "status": "released",
+        "license_id_hash": "88B46D4E689E968B6A75F6FE5B87E83F591D19389BBF1284580CF422BB3AEAA8",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "1D807943E972D18ED4EA17F0339A903595D12AB053C4DE545F1BE2B74903DCA9": {
+        "product_id": "APLUS_UNIFIED_LIBRARY",
+        "status": "released",
+        "license_id_hash": "E48AC19F0AFC7F87BE726DC48225D208B48FC89843BCE79E5839E2D8CFB8B1D6",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "7B342C8CA5A9C48F6B9808EC6F60ADE739B7BAECEE16DB7EB0A0B3B9CFB32924": {
+        "product_id": "APLUS_UNIFIED_DO_DAY_STANDALONE",
+        "status": "released",
+        "license_id_hash": "E8E6B48A8177A664EAEC5406E3E2A8AB6DF3CDEF22738021CB3C7BC4DF616C6C",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "5E8E077A01994628F79D758C66616008E26897CB107A101E7718FA71A50D6B9E": {
+        "product_id": "APLUS_UNIFIED_DC_PRESET",
+        "status": "released",
+        "license_id_hash": "9AB30D3D6179D1437CE84BC9C907DEE962DA1BDBFD4AE5826D1F211F5CE42A16",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "07C75B72719965330D6FB10747B77998065B1FF041D567A728DB6EE6564C3967": {
+        "product_id": "APLUS_UNIFIED_COMBINE",
+        "status": "released",
+        "license_id_hash": "CE004E68721A5DF66E021AA2342F2C18AB725F3552016CCC2055A23173A912D6",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "46186934B8B109D224411D5CE2161C1AC0DE817E23648CCBF030DB45DBDC429E": {
+        "product_id": "APLUS_MCOLOR",
+        "status": "released",
+        "license_id_hash": "11E66EAA58FA9298F28E6E2859581A0449CB3012A5AF7F8C331BE095D022A702",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "944500532E5E9BAB69F44B2BDA0E9537F403F6826164A20F8A376F718DB24BA3": {
+        "product_id": "APLUS_UNIFIED_DUC_KHUNG_STANDALONE",
+        "status": "released",
+        "license_id_hash": "F3D4CF889438F3314FC21A4CBBDACBF570EC7B9E37C6768EB9AD5B31BE2FEE4B",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "8EE19DA56CDE09432062914FD93784747D0EAA31C87959ADFB6684FCE4F980AD": {
+        "product_id": "APLUS_UNIFIED_KHAU_AM_DUONG_STANDALONE",
+        "status": "released",
+        "license_id_hash": "8884F2B908857DE6D5DA58C3D70437604964AE0CE6FBDE8D7C026EAC5C1CEF03",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "ECC81C52745D274B831A5B74A9CFC799E89F8B1D6956F4F56E9B0B5FC2D69D2A": {
+        "product_id": "APLUS_UNIFIED_KHAU_VAN_STANDALONE",
+        "status": "released",
+        "license_id_hash": "0CD1D1352F6407107820C09A6D83D17DD9F86488F28330CB80FE01683BF5CCF9",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "36E0D3838B3EB9ED2261B3E1393F55B0150952CA849AB8485F5E1A52209B8CF4": {
+        "product_id": "APLUS_UNIFIED_KHU_DAO_STANDALONE",
+        "status": "released",
+        "license_id_hash": "4756E69985526004BAE31447183B8F6A2A6444176CEEEE9D9BA7DD48BA98D487",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "3088E841E780A79072EC81C93F69CD6F481524DA23152FE4FE11885ECB625076": {
+        "product_id": "APLUS_UNIFIED_NGAN_KEO_STANDALONE",
+        "status": "released",
+        "license_id_hash": "A8678E4630299271DC559C3EB6D529761E4FBD5D1C2B01E9F16EDF589D822FF3",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "31BF1186D7890128CE6440C4EDE020F5EFC857278DB40AEAAD10350FC56DE700": {
+        "product_id": "APLUS_UNIFIED_NOI_VAN_STANDALONE",
+        "status": "released",
+        "license_id_hash": "C199414491E6C86367F9FA4990831EF1C231EFE6C964DD13547BAADE2DDE6D50",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "315642FC198BFDE0C81C1C28C96966A20406FA458EEC370148B0A1DF36A54D3E": {
+        "product_id": "APLUS_UNIFIED_PHUC_HOI_TAM_STANDALONE",
+        "status": "released",
+        "license_id_hash": "DEE080014A29EED0D7DB59C3405FC1D04D47E7FFF1825208E591F490C4FBB818",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "057F28986028D4004EC8522502720A8C559E1105721B0171EDF8C4405BB37D25": {
+        "product_id": "APLUS_UNIFIED_TAO_CANH",
+        "status": "released",
+        "license_id_hash": "FED51892610C4E00E893E73BD42C14B349F2566C0B81C019EC1598577935DBA1",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "0A2CEB4CC08761D896168094E52ED84EB91631E9259F583790EF29C32C1FC413": {
+        "product_id": "APLUS_UNIFIED_UON_CONG_STANDALONE",
+        "status": "released",
+        "license_id_hash": "BFF42FEA82BBF352460E8D4D9BD377EB4F02D4AD95D7915779BEC1A74B029459",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "A804012C94F413D19001DB157029DACFD8661D0CF1D788ACB05CD965C32584C1": {
+        "product_id": "APLUS_UNIFIED_BO_GOC_STANDALONE",
+        "status": "released",
+        "license_id_hash": "3FC615DA57501B001A43FB417436633A3EA1B3B191C8CE857AFC5B59FB5B4B97",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "60696379BA53E978249EEB88B85C62CC11E51CFC67E6961150A38C6F3255E5D7": {
+        "product_id": "APLUS_UNIFIED_BAO_RANH_STANDALONE",
+        "status": "released",
+        "license_id_hash": "430ECDA7141E61F1B33644B90CB2CAD1C45A84D1B16ED47D00AF2D9BC8F8A976",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "5DB949ABDDC6825C9097149C3F9AB991606B4107A85F5DB179A15B55F4FF2C38": {
+        "product_id": "APLUS_UNIFIED_TIET_DIEN",
+        "status": "released",
+        "license_id_hash": "42B7D40CFB313870B82002FCC6C6BBD6FDBA8406C82B04A754FC4E09688D9AE9",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "43CB5DBAA04C85F03E5BCF02708B9BC624E1E75534B946C524432C6DE5E1FFA8": {
+        "product_id": "APLUS_UNIFIED_BAN_LE",
+        "status": "released",
+        "license_id_hash": "818543176563CA14CBAE8C6962D75C1367874C193E9E5E99F113B34D1C48C3CB",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "F81911B171DDA28D67F35ADB455AAD15F93D95175EB1A5754829EDE307C5237E": {
+        "product_id": "APLUS_UNIFIED_TAO_TAM",
+        "status": "released",
+        "license_id_hash": "B5779308AE3611441B67AC7BCD1A745E8F43844E87269468337813A80067B421",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "31F839281389F5721E670A47C91BD7DD18FA2A9630957AE5D872534BD760B153": {
+        "product_id": "APLUS_UNIFIED_SOLUTION",
+        "status": "released",
+        "license_id_hash": "168D178E10247BB388D7D332AA2F40661B3076B7DDA34CC9B7832D72141F4860",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "021FD9628C8E30AC90AE9D60E9868BCD2A9F40BB348F670058C0603719D22EA8": {
+        "product_id": "APLUS_RSCALE",
+        "status": "released",
+        "license_id_hash": "271891B1C63F44086C55B29CE3496036F49F98800A3139E1B83FF612D852E680",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "C50529875F5039770DA9F7D76564205ED74B4087F5FC96925803037B6AB9633F": {
+        "product_id": "APLUS_OPTION",
+        "status": "released",
+        "license_id_hash": "74D7D7AA2A02DF5D822486D524D27FA2CEC1C8D3F7655FCFD66FAD9EF6E969D4",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "4FE5CE4E447D60B61686C133887BE82D9F10472E50604529DD79F8E2F4DE03D8": {
+        "product_id": "APLUS_A_FIND",
+        "status": "released",
+        "license_id_hash": "85979D5ECAC1812EB9C106FF05218230A2BC295639570C4E2F42A89E6BA5DA33",
+        "updated_at": "2026-11-19T07:47:48.808Z",
+        "source": "manager_license"
+      },
+      "924D224C61E87A2273A1777D1362193060E963B7D86FEA42B353B95682E4306D": {
+        "product_id": "APLUS_UNIFIED_TROWEL",
+        "status": "released",
         "license_id_hash": "29C97E89603B363579CBF196FE25E43871F8443978077FC521AEE4706906DA11",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "9502F70FC9849AD582F8FE71D17A35A9C1CC32014EF0CBF110C92CE453135B4A": {
         "product_id": "APLUS_UNIFIED_STRETCH_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "C750CF5D3A45680CEA92E964790B116EC25C89811FE85E7CEB6DF626DDFE7974",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "74A86918B2AA3161733DC84E05369A8F2A350FB46757A44B2DA32B8F383ABC7B": {
         "product_id": "APLUS_UNIFIED_LIEN_KET_NGANG",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "FFE01B726BAEADB4F7B22DDD1D0230D50151CA08A78386FD22BA7424D6C26A71",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "C7219D09AA252E4D86ECA28515AA70A12D3FA09AEF7BFF51D37351DEFF3CDDF2": {
         "product_id": "APLUS_UNIFIED_LIBRARY",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "B6EF0A297CC1A3E1E127C7C67B110E0328AD476403BCC977A84A7E862D9B2BF4",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "1B5758E22A732CDA1A69BEE8B7015CC00B3B6BB6FFF5827609B0B3A6E6E6A513": {
         "product_id": "APLUS_UNIFIED_DO_DAY_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "5FD4292ABFF4859178DA7B8405BAD3A6063D19060AB126BCC322B1597A994E5A",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "9DBB6124DD39B556B4F8AA469CFD03EDBB53E693388092AF97D1C0DE643EC168": {
         "product_id": "APLUS_UNIFIED_DC_PRESET",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "BE0672CA721E85547F557C9B5C79E4E0DF6B7654A01E9AEE11EDB560454CE986",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "30298380EF3A8A8362974DAFDE3C8FC53E672FA6494A5ADB08E2EC8CE09685E4": {
         "product_id": "APLUS_UNIFIED_COMBINE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "D4E8747DF66C112A0005C7E2623C7AD78EE12E738FB2C520D4F667C88EF5B53A",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "7135920301243A2F603C64AC4CB5DACD8FDD1A5B716215FA475A5DD1090A4DE3": {
         "product_id": "APLUS_MCOLOR",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "992D325A0A7D0362B5F56C513F908024ED5DEA3A5904DBFE0D68EC16E9E53B52",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "98F84E0C9495240310BC127F141C88378DA48B46E48564743F347571B9237C8F": {
         "product_id": "APLUS_UNIFIED_DUC_KHUNG_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "1405D348E06E02C0144B649FF4FCE327661F7B80BD9E1545C26078738A90C364",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "5FE017AB7C7CBCDDF140B7A1376BB4392FF216AFE370431BA1DEDA9257665D4B": {
         "product_id": "APLUS_UNIFIED_KHAU_AM_DUONG_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "0ECA484D49D208808F3FAE4EED3556863B0A956CFD7792EF1DB37D88BFE3327A",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "A62D95AF2EAC8F51ED5B29B0CEEA702B178E13F658161520B3491F6076293975": {
         "product_id": "APLUS_UNIFIED_KHAU_VAN_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "455F01BACB284637A33216F2FBE4FA4CF0788C44A0D13421A6508BD75D50A536",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "670A6518CFC58F7FD4AA727F4CBB2FB1515B18537EFE0E9A703C2D7635B064E8": {
         "product_id": "APLUS_UNIFIED_KHU_DAO_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "AC65FDB9DE9EB07E55643B0F48EB65327AA0FBA2B1C4E970DB67767231FE362D",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "9728FF6600BEE1521DC487CAC84D3AE52490D90C91638F6188C15EC60EE4FF07": {
         "product_id": "APLUS_UNIFIED_NGAN_KEO_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "FC35E78B08F345F9EF7C45561034471F6BAD72EBC3E4751F1B2223B531279385",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "0F5D6102118404B0B4F994E6148F5B3F88BC0AADDF47EF7ADEC823EBFB74CA80": {
         "product_id": "APLUS_UNIFIED_NOI_VAN_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "8EC8242A336DAB79B57CBA54739B5FF0F10550D4A47B7B045C1A5EB853D7025D",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "43AC7C035E487D6960106FB77839810A0AD452E5B2F550BB16BA9867BABF66E7": {
         "product_id": "APLUS_UNIFIED_PHUC_HOI_TAM_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "6CF67F31F500C279E3B931EF378D98EFD8059D6FC3C9F83256336641E6C7CEAC",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "EAD5710802C531DB7C95E99E96B7130C854C2C10AE4878425FA0556FD68378EA": {
         "product_id": "APLUS_UNIFIED_TAO_CANH",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "D9151E3893495798DDD024A3AA791CEC71B88BE3BEC1732F9B2DD4C184DE2443",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "93FC2A86AAAD135BBCF5BFDAB9C87888083D1F5F1D445A694FE25D94C5476AA4": {
         "product_id": "APLUS_UNIFIED_UON_CONG_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "3F6D6706A75B978A62AE96C342E952F35E2499FC1D496179D2E327AC6A14C131",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "201855215BD0D724CA73E96DC0DCFD3D1F1A5E1BE8D7FA811B925D342EB8C7F7": {
         "product_id": "APLUS_UNIFIED_BO_GOC_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "07261AA582D4EFE47720A3F9CE6DB1F0846C890367FAD46E99EC057F093138F4",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "F93DE79D4133159EDB5BF9926E1C522A76B09763FAD8640EA664FA8A58640E66": {
         "product_id": "APLUS_UNIFIED_BAO_RANH_STANDALONE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "0C474EF45F39CC681DA47D21F9C167FCF17B57BEEDFB890F4032865F10968C93",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "C539D1C14FF66C1F7DB6DA8A579B3580CCC26D549FE5731E2E9D1C5739BC3526": {
         "product_id": "APLUS_UNIFIED_TIET_DIEN",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "B1AB42901CD3EE021AD6A59B75AC4D74A5D1D2BF7F0AA399CAD8AE690AD0FE98",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "9A43C376EEB10C5FADB437516EACC51568CF2DCBE2B316D1317F605FDD4B0434": {
         "product_id": "APLUS_UNIFIED_BAN_LE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "69CFAB58C1E3EA9EB228EE7C61E0C40A2A2D8C539360E93EE2EE4C8EA9138843",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "FA299FBAC17483E8ED37C0FA627EE83703CFCD37C3A051F73D708D6A539A43E8": {
         "product_id": "APLUS_UNIFIED_TAO_TAM",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "1788B574144668BC970212DB57858EF1CFB4A8367EC14481357A3AC5E7B10540",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "9525BBE60DB0A771A46092BA290EB12FAB3CEA82A8EDA5C120F447CFFEB42C18": {
         "product_id": "APLUS_UNIFIED_SOLUTION",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "6FFC94C8450A1A254FDFAFB393BE87B0666FB12188734AC8A2C0260FAAB6ED44",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "85C959FC7C4B374B93EA1EB0126123CB593D2C7D28A02D21992AEEA7B4840022": {
         "product_id": "APLUS_RSCALE",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "26F6ABCB3E38F2509658D984D1039D0E27FAF6A74415CFFACB521290520065FE",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "C9FCE3ADCA6063F4B7A72AAFDC7A276C8A5F6A42EF13A15AB4D531947CD2613C": {
         "product_id": "APLUS_OPTION",
-        "status": "issued",
+        "status": "replaced",
         "license_id_hash": "0074211218E01014CA9600E52FAC77C16E091BCC9B0CE6EB93303679C609FE6B",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:44:27.317Z",
         "source": "manager_license"
       },
       "89037A466245E2684028E508C2558250DFBB981D293E564E182AC1C9DACB586D": {
         "product_id": "APLUS_A_FIND",
-        "status": "issued",
+        "status": "released",
         "license_id_hash": "1635A48E3EBFFABC23ED09399680C491FEC15501086B5BADEA003E47B1F9722C",
-        "updated_at": "2026-11-19T06:53:20.116Z",
+        "updated_at": "2026-11-19T07:47:48.808Z",
         "source": "manager_license"
       },
       "89303317EE06D5600266A2061B8B25F70951671E022E0C70A330139435B65C29": {
@@ -2451,7 +2815,7 @@
         "product_id": "APLUS_OPTION",
         "status": "replaced",
         "license_id_hash": "32807F3AB219DFEDC2E6CC129CD2DD577A3281F481857FD6995B3DE25C2A836D",
-        "updated_at": "2026-11-19T07:41:23Z",
+        "updated_at": "2026-11-19T07:56:05Z",
         "source": "manager_license"
       },
       "3C20165480E6A1608993E2E39E1617007FADA0215725947A64549C0EE0C7D009": {
@@ -3261,7 +3625,7 @@
       }
     }
   },
-  "payload_sha256": "0372ac7daf7f9c364a735ce8f3b2418762e1d6feeaf9f1168fe58b0b773549e7",
-  "signature": "Ul345jeYKdXeya4oKQnriz5sm1AkD83HK/UByo6NMjrVD+BFQswuVzvKr+ZMFKiGQ2nwYrMhzFlys7ofeAF8yRB8iq0Ihxw2HGoP8G1aS+v0fvPHjyiF8xAggQ3Q5t3bHHT0AMRQp9xiQHig7lN1zfVr1cjGhaVlAcxjX6BivGlUDTG1R3MTcbhq8uwby89Ww6vcbVS7tLiYIePD08ZWKYuSyN1kZwqituHVPtSod72hWaokAgmn15iDfip1EGHOgh/rURwX7f8dXnHjDwuyDRX13K81bf/qP/wELQ11oHlFQ1yRnA0gZPIF3K75syvWXhJcx6bR9O0rJMLXhRjUs44mDr/UsgR5U5DfsuV+juOmkN7bbWlByOy9CDyVbto9P75GkNC0tsmOOGOMocm01UubvVsZpBKKQHBLISUZ62cY7loflLntB/5Y4McZ6ObO9+CmwXabHUVF3JAkiH0QKkcRzL1LeRdXUvijM0G80BVwmaEyvUkw0P3tB6kD4Dxh",
+  "payload_sha256": "7cc08d4c6077aa209383914b017744acdbfca0c8d03e9602aeac71cc7120dc26",
+  "signature": "z6O9x6+6mMXl3+2iogcfgMfSM5uX5jt8EoR1bAFRRrYQNOu8koAQJuz+KUVrFH3WEokbhAPIgquhekOfSPGExrgCMHrdMAVcHrlCwYe9x13ofZ2BEmagaDCs4UkE79/hxtu3tF4hT0nOL2HD7C4ful9LOtaG8UWSqzzE7VR7fk3sAnkKNk4M0pTFPqbIl9aJyOJpo6seZ9/C6cIzVU0yRBJATanmlJpEmjBKs7nCPwsyP0PbJ7hU6sXpQlYOlme0g38uaKI/n6ZidIrDdMaSHEIv9gX9xBNqu+ca4mYEeFJV3mERjyt8v7OVRb2jf0kkTj1wjMwyH0GRxRd6dZi9Jtd5/KTnYg7XoZIfHgnasnXp1fPFk2O0sJ4UdrEv2UAUN9HHtgF55qt3XtrfSGREd0cXmm+wT6gMq5qW2khYIwjJvJt/0hNu+7jDELrz+GCIZX8R9hbY9tHEZa2IHmr847kh4rSUN4zT2HZOcj5mmSAVAJhZREkJZucerkpITYgX",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
