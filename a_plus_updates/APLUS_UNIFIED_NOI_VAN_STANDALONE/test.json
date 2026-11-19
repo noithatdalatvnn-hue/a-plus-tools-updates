@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_noi_van_standalone-v0.1.9",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_noi_van_standalone-v0.1.9",
     "release_notes": "Nối ván đuôi cá chữ T nhanh.",
-    "published_at": "2026-11-17T05:11:43Z",
+    "published_at": "2026-11-19T07:41:57Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_noi_van_standalone"
   },
-  "payload_sha256": "ed9903433b87f19401c848761a44ecc9caa7a961671957a5119a8d7208be8072",
-  "signature": "yA9ruelwA6HUcR3FY4/X0rJDA6GqmYoBTaabdDwlvfuPL4OqkViDC2m47x+kKpBYtQ+/qPSk9AUUEjSxbyBQTRHHI2UpEaWA2JCtqnkC7eVQUv/T61BIK2izf8HCfcVBlsbNwVwjCNY+fledO1ddkvLxfJ6bfT5aBeRp6ZVcFvEw3T9JiskoOWrF6VvKaXURPdITZrR2lg0Swk3eKw7p22ofG/lcULKIHCDZQNmyb2ZeSpghc51ZPFErIfNpn/D1IcNk1UPI+CwZBW8dL7rB6xiunrlaAI/PMXXuzVSXdSaSuK8bZYQobwvt+AQx9DFLrLX77xesguqjuyyzVvb1rQ+xWTB0ff/cGNojSuEZ/QbpJ1mwvo6kfdobcXno1lPTCAao1alwI45Oci+cGy5ApMY2w18QRZxXWWrmK/KSazNsWqfqzYeWJjIF8boezp+e5qAsfOpfeGYWJFly8HL6NSRfREgcGjY+gI0+AE/2JZpyzbQbqck1/LHtT+lQAz17",
+  "payload_sha256": "49ee8a2f309b538c8433d0554b8bf581d6382da44d45595f91fab3b0bfb6948b",
+  "signature": "jPFBYD7nvvLHcYzDfvFMbhZfHnnGW04u0aQRPODWjO5uCyMVLXCSkgMfagZ7DV0X/SO7yO7SqWcV4tkGIVPeJaJULfto2OjwW3CJ5IAoAlbYST7xXa7iv6xMKan9vuJyx8C+1coi5yS+iaRt+m6NuLTiuG6vhyKG8G1n2G4wBOr87J7S+2NDHRsX6+VnvUCahdJ1dq++Gopn8sPdhI9KP3YRykiMgGOqPqJs1VL5e/Gx2eskeLYCpBBtaXEs4HPGkY307IK35WFqUTj5CIwwACi3zb6kOVt2D51QHa3sDP2/LyL2ogF8hWJ9ChpccrU2JNG85h769q8ywhkyOE3fR4oFiIsd4W2P3UovGJHTKCTi7Jz3Tgtv8/Tf7UrLarf69tZoMEy7zoXQFngNIN4TCUl8jASx2Q7D3sjgA3UsjuO/9sXdTHodRdTmHwzphkp2TagKRlk/iU8qMftJI+y7C5Yzh/z3cZkEQqcgD3XuMOcC4RY0P0fLNsNVXMher7I5",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
