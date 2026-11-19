@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_uon_cong_standalone-v0.1.14",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_uon_cong_standalone-v0.1.14",
     "release_notes": "Trải phẳng tấm cong xuất CnC.",
-    "published_at": "2026-11-17T05:10:05Z",
+    "published_at": "2026-11-19T07:43:35Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_uon_cong_standalone"
   },
-  "payload_sha256": "3e7d7d947e8265fb94322756723164d265ea2c9bfde988e3e68913e8ffc9c9d3",
-  "signature": "CYGkoGIJVgBkAdkOamXLS1p1XkKYf3gRqdjZrtXoxxpEFI8Uobf4yP4rV7Vs02E87QspLFqZGc7k+lXProVHPT1PwTV0SnI5wOfQsm47t5FxF5rGtwWTu64CVeRKDSx+JRrml5VSCke7Up7mVoI8pcIN3MLt8jIBQ3OK2pq4QBGZa2WqSjkqxc8y4SxB2S7HWZmrr4NQ6PzbuF8Z5YsAwd5OglwTY6cEy8ljlRIrDlndxbUnswM8FUnPdT06H7HnldWhQygY9eGtHvJWQRhwBsLLUeouovwVsaj/AvtEziZj7pinRjF6mgA2CXEQrJGzUE6ZMBi3nNb1uMHd1vD7cCjzT2U5JLdX9FDIgyNinPogotVFztV5vg9J4WwREUZ9Ri1AHsu/zeOTNu6iuWgwL6sABdKQDSij/XWXJPFfN7cu/F7AB3tjptmgb3ROhEmgvu/HAWbwE7/iSapLoZbuu3bKLM35RdBR/qKnNwwaREYFu7v8TC0XehGIgTtTYNM8",
+  "payload_sha256": "930ccc55a3c0e5b06cb3457456951b0c3077eeafcce2e6886f8a31bb9d49bf94",
+  "signature": "aw0m3ECv5e90o3yZjPq3oAjUyE/S0xIfRbVHwHDudrUrmz/OcSwLgVL7Dd1t14Dk+xnA+SJheGESdT63Mk614sLU2UwtwhEyfjocj4X4oBlCB/qWbaroi52ct4RIDqFDQZtKHd47AdXt6URRcW2u/x9ADE/RmQR4dAq9EveLthKDgXrME7QfPaIYTd7pZaDXKACdACK85oIuXLrFOhn4vmzVAfLc4FnkfjNlbnVO0tObiTe0yeTsDeViH6D7E6u8/RGFocRggcVewFd6FmyphKxyXAXUqsqJaeBylRwnShEXdG8e1RHFnIMv59nKQK2UcTt/J+F0FW7IqUsSBZuG/3u5GQpaSLYz0HjlzsUuQw0I38rvTuKHxdUruCg3sHJwYai8rXsbas/K2iS1rh8WZlCHQUIYpbdt9YXxdWTQq/AEnslEf5XQM5RrZccPsMNIznqhM8D5xSBEOf4A956K9AJvQKhVt0wwfJbArxlSKxqNpj5RhldIVnJfBIBhCEcx",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
