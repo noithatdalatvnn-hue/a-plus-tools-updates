@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_bo_goc_standalone-v0.1.10",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_bo_goc_standalone-v0.1.10",
     "release_notes": "Bo vát góc đối tượng.",
-    "published_at": "2026-11-17T05:15:05Z",
+    "published_at": "2026-11-19T07:37:50Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_bo_goc_standalone"
   },
-  "payload_sha256": "bf58cfc8df7ee4013f699fccb6e166ed188cce46a77e28392b447ed241ba00d4",
-  "signature": "jqpDfkYvhREIjhfKBFVWQKIY46lYwPY3ScZks6fSdb6PrTx0a1iVbM9VvmPKXol0FZlY25ODcJZEMLQeMOKCUhXFZpCwiaTOZ63xAJ08fvsBcDG1trN1Eh15zx/pGIa1v2yAN/jJlfjC8SffGB72uuF5my53lVQS45Ke17Z6EMyAFzxBIILHsSNyrgaRm3d2IaNxXAmDILne1wk0KGavKrd0JzTeLgP1cfa+zHerN25CnYYkrlM7etY3G3GDfDLR6Ki3qSl9ywDpjPZyIDzepHIwWTigF2CbdjTrAkzGXtKBp1GwXUqsA+K8xyU1dCXQbiKPh1e2zJpl+L5J6hf8ItM1eFZoDVwP2XxkmN6Rvtfub1fs94/PQQNpCYoeNdnpmqh9D7OWoBBotIs+39xh7SdtglQm5irHDjSjKdD8ocP2gsuNcunqjOyuVuP02eYo9SHpmKO/7bSodcNHgAjwvykYa7aVUxyunOrpuVJYX9fKMAR73D0rIt+uNf77ix1H",
+  "payload_sha256": "36de83412fd2b344689c78baff4790df8e54dae7a926bca4c4c27dbba88c5312",
+  "signature": "p9xxHc0lsjizzbX21iOFTAXer2uFhh+GJ35GYk+6mrA1u8GiOgkmRqCbcAwGB+UeyEyxSyuNMfchAqT25Ic4UryG4H/0+L2MFME4UU6Ah25+A7BiS7Gi4JLCQXqnXlKt+osRrZPjy957wLOpmodO41kcbBLujYhtlJdvH9jWWSfyZXC4wrDjUZK9tP0HFmNooMJlJGoANOqWjwhOSPZXQxjEUsfMGMYOkYzVGL3ZooZLeyPP/8EMFP1At1kTWhdAv7hyGUy0fn3gQTm/Cp/AZO/4fPkKE8rp3hYsoJ1I+Z6MQ9zkMTsFfIRRXPrCKlP7Mcm99L3N9e1d/gA1BZ/+reEeIdo+D9gK3gi5ZosPDitn0JFotYWfUM95haLbTJXw1R3t+Mj/ZW0v75yl3SKWdbr5BZiHwccQoCSoAlejRzDKY77/OL0vlp2jfCJq6HrnOxbmBxOAefsOm3i3x/kcju49eToYjnBVUfQ/xrMnw7uE1ijcx+YQPwNnZLTgnD/f",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
