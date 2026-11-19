@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_ngan_keo_standalone-v0.1.31",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_ngan_keo_standalone-v0.1.31",
     "release_notes": "Tạo chèn ngăn kéo nhanh có đánh dấu lắp ray.",
-    "published_at": "2026-11-17T06:58:52Z",
+    "published_at": "2026-11-19T07:41:28Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_ngan_keo_standalone"
   },
-  "payload_sha256": "ebee8c834a2985e6d42f7e044264b694a3554d640221bdef364c952e7a75e964",
-  "signature": "b6PZQd5lqZpqVY3hytfIeQMVkMMoolsm5PzLwwSGIFH8Qlk2QtAcb7FZH4Y4/HQT+88icbzTtLDLCzncinnSXra9BLYrNVK+ezGkUv5Cedg4mgJcPOnYfX3kPZa9YHR7l4hmGYdXZ/4dni1ZFVngdczJFGfE/1h+XQQtMVf6PsCe+gG1whcb+Mory+B7nZlQfP3D/+DSUlucFRZyfQfM8u1PTEbyvi3KnT9zfmzlVbx6Iji9f24aBMvyalG4HxS55TMvnftTY1VN1LnGjkj5AKW9WJo3x5MkAKxIYFIAWpqEK/C4LZdo7xPHROf1T+5pYVvfWmzPMZNmmdLn+h0xzKzZbYsCO5Ttbie65//bQ/em8bXyWqpF2uVFQ32QQ7C7I/wrd8ReMQQ9VCwIVyqAIz+/UNth2uCJu4EnMTK76U8d9k6crF9mJwIohZW/7xpJhrxy2eNPVoDz+8hsTGtD5ElrRpif0Jw2cqh51fNHXYbGn72nBceu5+UV9AX4mXrH",
+  "payload_sha256": "c94202ca9acb86e8f51b7854d76c599aeaee0f2451d0690ea4e90f41f9bf858a",
+  "signature": "0sM4ktmlhZGXrPKP8HfsuSWufmcqeiPDTiV5fNrzlG7ct1hWlYpC6YHgCeYMdy7FCMUVaWbA67j4T/Zwb68gVeOrd3zist9nvVMFyVAzJKfzIQKdXGsCBb7p0t+fYJFe69ZJwH7eL2rrlTY99nnBLa3GVY5ona6kBDKQ/djsBiqCUIb9up2xKlsezInxxdJkumG2kT0TkVLn86JB1xuv6uQoGt8svfkbAvDL3fhSE3vZedHj1tKoHWGOT2W0yG20ea0qBlbjadMxCEK0GJN4SSYubLfijP1fJrl6MT2NUW6B1MLtIVDoOzrZhEKCMnB4WvExpkXqfouspzV8agAnTCkaM0w7769YnM5dzIUxkJzzWtqT9/xB22Yo7VMkJI45uB7zUDMTG9dpq6HwfWEplLiqC1b00SXgS+a27PfwUS8BReqM1fdux8a3pl/AKUDSBxXtpSwi48QIHk8pX+zKpMWm3/Jj65J2HJXRnAvj+QBX1vepo0Xzkq8RoeV08MWQ",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
