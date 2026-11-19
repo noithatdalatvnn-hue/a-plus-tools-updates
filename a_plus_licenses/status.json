@@ -6,7 +6,7 @@
   "payload": {
     "schema": 2,
     "provider": "github_signed_snapshot",
-    "generated_at": "2026-11-19T07:32:43Z",
+    "generated_at": "2026-11-19T07:33:15Z",
     "entry_count": 464,
     "active_record_count": 358,
     "tombstone_count": 118,
@@ -3261,7 +3261,7 @@
       }
     }
   },
-  "payload_sha256": "144d9c4f9e7a27e183f9b206fbdaef8e4428dae0d5e8c3723a43ab2eaaa503df",
-  "signature": "mpKzbRhGBd7sB6TP61boP6Ljz6WgM73X57f+u2FAunIkw7geb5G34YtCKW3ww0pD2VM1jq3efebcjnzXZgcXxAqEHXQoWGtMTZhmBAUupM0Achxw17XExTyC9KmTj60rxR2rnNKRoEfGe9r9h2Xtx1RCGizrYJj8JlFx5AjcSQuB2aqXJ+UK7kI7UWutNj2Y7hhA32cTS8yjEtDzXmnlw2zbwmmZupwshNlgTSvJ1qIWcki8sogBNek/tceutIPHQwpGNqLQdXCeSjJwwm7boyjhsAJmcz5jPZqthWEB5fIsURabgiXDZoSceyxE9MLL25G6OLsa4aljB7bw+1IlZVaN4L9xSvmSBHI2KKvoujesH2k+GWqXhGPK9VWpauXqtx1nG6DP81aiRl72ADL22pKDCDsfTHKiD3Td83EE4SMcvrWDz1feHDGyouAm2lMqNDlp5AVnuLeVL1I3O562xzbElJtZj1GzWyGfe2qDoBttFn1fXjEWM1VR6vo4kc6o",
+  "payload_sha256": "e0616a777c1597c257047da4fc36947b32bfc4f33f603cd0318f825c7eefd243",
+  "signature": "MNQgNQuTI9xBxwbuNnLBRONvNskz2vQkE4Kll6Dr3ZvDnGpuWsIzDilUmiM0guLDDOMUKe3UU5LCGTtl/hV5fplYDI0Nv1rDxVovPJ20EXC1nSLjPp1JAjb5RHB6lfR3p/vcctTH2Qz8RW9Vo0reubBO9UchwtbUqyZCSUawRoFmrYoOTT5vvABdZvl8wwTQZHzlJxE3zES90jtSuBSOBCiBBat5ZuRq4qd42HBk7+csC4uMNg5Y6L8d1J0x2lmDm0PvNRriiaFLeFwnUNjAX7/Eval/mHhxCzrIm9+BPwBhUAyQ95Bufpv4zLl4W9/wJ41Qiz9lYOQlTWZwUPXNyjJY7QqGfBvBb1zez4dTykAvji/To/gzfUdNHiggIiBjQcpbYDHcX0OPm6HtW1vuBKyL5OgrGTbhAPCT2byrm27eIyT/0HTk47DG0uuegwxQSPrvhij8swfzgIg+x7QNYzslqBW8BSGet3K9WUL8T/no+CASaEdeNX/PKRf8+Bho",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
