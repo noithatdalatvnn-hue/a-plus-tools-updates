@@ -25,14 +25,14 @@
     "release_tag": "aplus_unified_bao_ranh_standalone-v0.1.9",
     "release_url": "https://github.com/noithatdalatvnn-hue/a-plus-tools-updates/releases/tag/aplus_unified_bao_ranh_standalone-v0.1.9",
     "release_notes": "Công cụ tạo rãnh, Led.",
-    "published_at": "2026-11-17T05:15:38Z",
+    "published_at": "2026-11-19T07:37:15Z",
     "repository": "noithatdalatvnn-hue/a-plus-tools-updates",
     "package_format": "signed_rbe",
     "portal_signed": true,
     "rbe_encrypted": true,
     "support_folder": "unified_bao_ranh_standalone"
   },
-  "payload_sha256": "e95462faed840a5a4e1f74766df7b94a7d2377f35c4002eac224ec3a2e7ee608",
-  "signature": "RH0Tudih7Wp+InL3beX1oew4zIM5W1E3B6LmqraKO1iEV9X6xsvK+KYDNxQf4CxZjnOSE4U1E2j0SYjublF9eww7idWdMO5HXuOzL8xyYq4tj1/TcfgNH+LioO6NtVzyOMiiFEIRTE5yASlzYHmpONVQMThBxDtM+kVfRlAf92xc+RdLrCyHHo7CbMOPLdINGssOubbXGQb+/R1MMoiVMKTJq9nXQytJRkBfHD7FfqnBU7Dm4oSm2XKQxjdFKmtX0OcUeA7k6S5Aebs1K/9LuX5fLlqQy5FRm1LOeceI1j5nOhaTL8xbec/IKs0qpKy8Q5bDoyCt+qlppnFnWJxQqdQuaCyzFN23Y6eMySUWXs4f+cNyM7rrl1/5ynijlKPoPdXq3NUpZsGPf07xNoiUUAIUSQ1ZQYeZxGbDEbnr3m0g5xZnsdjMQS6Exd9vgFbLCju69yuN1mdtQuZHno+3VfTKupLsCf6nBFPDJ++Nc8fJObKmpIorUrUaod1E9gfO",
+  "payload_sha256": "ed5a04044487a677f47b147a2ab5e6c5cc2d0f82dee91021e4a39750cb503c08",
+  "signature": "i0n2k/QcRM+UJJeNn8+bLl732ix+PCy++5MogdrvrlVLFmqyXkSWiPS+QurAWpNGr5xFF8Y82Tr3CdftMqIBsXGjAdulLnBgyxOoU/YhzzkTyzIUKw3Db1nYdM+QcWlerXrILMSlfjkJPcIVBAcwEozh5o7mECSVmcPMyOHdzOFooK9OjU2hJITH+bCCZBtYUtP3HIkqqSd3GVLcpOAqnPR3JhxpJ5zAg6NkFB4Kwc1RmKLtXf42AuNqG+g7yFHpB+nSPlKLFrpF0KT/M1a0TFiRMXIAGctRh2nIeNQeYsgnJbjOrE5Stxcc2KJlEU0F4qzZe9KbYkkKju/xj24xUB+ayU1wlZuH0zvRTVkKXCoUy1nCtiVSK2rGHiieAXUfCGd29eycg7v/nvsb5w181AjObOKaGhWZMDSpq3EcjIiD/YiTmZlutx583QOZDnBKtccGiOszHwYS+pWWaJLhL4N10/F6kwV/cePDw5Mynzr/PAeaq87Ar8ti0f7L6Nvt",
   "public_key_fingerprint": "ABCC-9154-A6F5-DD74-EF77-7BCD-B10B-A128-966D-60C2-BAED-D8F3-9AFD-F816-9288-2400"
 }
